@@ -1,0 +1,688 @@
+Numéro de mesure;Longitude;Latitude;Position;Insee;Adresse;Complément;Code postal;Commune;Date de mesure;Mesure réalisée;Rapport;Conformité de la mesure;Niveau global;"Type d'environnement";laboratoire
+180896;4.07346;44.123978;"44°7'26.321""N 4°4'24.456""E";30007;Grande rue Jean Moulin;"";30100;ALES;22/02/2023;En extérieur;RPUB_153963.pdf;Oui;0.61;"Lieu d'habitation";EXEM
+180901;3.97393;43.542903;"43°32'34.451""N 3°58'26.148""E";34154;Avenue Samuel Bassaget;"";34130;MAUGUIO;22/02/2023;En extérieur;RPUB_153967.pdf;Oui;3.76;"Lieu d'habitation";EXEM
+180905;1.35494;43.481668;"43°28'54.005""N 1°21'17.784""E";31533;Rond Point des Chasseurs;"";31600;SAUBENS;24/02/2023;En extérieur;RPUB_153974.pdf;Oui;0.61;Rue / Route / Parking;EXEM
+180906;1.350202;43.480645;"43°28'50.322""N 1°21'0.727""E";31533;Rue des Ecoles;"";31600;SAUBENS;24/02/2023;En intérieur;RPUB_153973.pdf;Oui;0.12;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+180907;1.352863;43.488619;"43°29'19.028""N 1°21'10.307""E";31533;Chemin de Roquettes;"";31600;SAUBENS;24/02/2023;En extérieur;RPUB_153972.pdf;Oui;1.04;Rue / Route / Parking;EXEM
+181190;1.474078;43.586865;"43°35'12.714""N 1°28'26.681""E";31555;Avenue Jean Rieux;"";31500;TOULOUSE;22/03/2023;En extérieur;RPUB_154281.pdf;Oui;1.86;"Lieu d'habitation";EXEM
+181233;2.766586;43.244751;"43°14'41.104""N 2°45'59.710""E";11013;Rue De La Tuilerie;"";11200;ARGENS MINERVOIS;23/03/2023;En intérieur;RPUB_154294.pdf;Oui;0.18;"Lieu d'habitation";EXEM
+181237;3.873625;43.612038;"43°36'43.337""N 3°52'25.050""E";34172;Rue Jean Jacques Rousseau;"";34000;MONTPELLIER;23/03/2023;En intérieur;RPUB_154293.pdf;Oui;0.44;"Lieu d'habitation";EXEM
+181240;2.766586;43.244751;"43°14'41.104""N 2°45'59.710""E";11013;Rue De La Tuilerie;"";11200;ARGENS MINERVOIS;23/03/2023;En intérieur;RPUB_154295.pdf;Oui;0.02;"Lieu d'habitation";EXEM
+181344;3.879104;43.600279;"43°36'1.004""N 3°52'44.774""E";34172;Boulevard De La Perruque;"";34000;MONTPELLIER;29/03/2023;En extérieur;RPUB_154400.pdf;Oui;2.01;"Lieu d'habitation";EXEM
+181392;0.785952;43.277182;"43°16'37.855""N 0°47'9.427""E";31121;Place Du 19 Mars 1962;"";31350;CASTERA VIGNOLES;28/03/2023;En extérieur;RPUB_154461.pdf;Oui;0.94;Rue / Route / Parking;EXEM
+181447;0.177069;43.519427;"43°31'9.937""N 0°10'37.448""E";32233;Route De Mirande;"";32230;MARCIAC;05/04/2023;En intérieur;RPUB_154518.pdf;Oui;0.08;"Lieu d'habitation";EXEM
+181470;1.718967;43.69258;"43°41'33.288""N 1°43'8.281""E";81102;Route Des Crêtes;"";81500;GARRIGUES;17/04/2023;En extérieur;RPUB_154539.pdf;Oui;0.35;"Lieu d'habitation";EXEM
+181472;1.477217;43.619266;"43°37'9.358""N 1°28'37.981""E";31555;Rue Louvois;"";31500;TOULOUSE;17/04/2023;En extérieur;RPUB_154536.pdf;Oui;0.21;"Lieu d'habitation";EXEM
+181479;3.407125;43.420523;"43°25'13.883""N 3°24'25.650""E";34182;Hôtel de Ville;"";34120;NEZIGNAN L EVEQUE;19/04/2023;En extérieur;RPUB_154556.pdf;Oui;0.16;Rue / Route / Parking;EXEM
+181480;4.062084;43.667352;"43°40'2.467""N 4°3'43.502""E";34321;"Place de l'Horloge";"";34130;VALERGUES;18/04/2023;En extérieur;RPUB_154557.pdf;Oui;0.19;Rue / Route / Parking;EXEM
+181483;3.65937;43.44696;"43°26'49.056""N 3°39'33.732""E";34039;Rue du port;"";34140;BOUZIGUES;12/04/2023;En extérieur;RPUB_154558.pdf;Oui;0.18;Rue / Route / Parking;EXEM
+181487;3.695859;43.401513;"43°24'5.447""N 3°41'45.092""E";34301;Rue Paul Valery;"";34200;SETE;12/04/2023;En extérieur;RPUB_154560.pdf;Oui;0.3;Rue / Route / Parking;EXEM
+181490;3.933513;43.528591;"43°31'42.928""N 3°56'0.647""E";34192;Boulevard Marechal Joffre;"";34250;PALAVAS LES FLOTS;19/04/2023;En extérieur;RPUB_154561.pdf;Oui;1.55;Rue / Route / Parking;EXEM
+181498;3.897706;43.632759;"43°37'57.932""N 3°53'51.742""E";34057;Rue de la crouzette;"";34170;CASTELNAU LE LEZ;13/04/2023;En extérieur;RPUB_154559.pdf;Oui;0.42;Rue / Route / Parking;EXEM
+181501;3.293996;43.246707;"43°14'48.145""N 3°17'38.386""E";34324;Allée Charles de Gaulle;"";34350;VALRAS PLAGE;19/04/2023;En extérieur;RPUB_154553.pdf;Oui;0.86;Rue / Route / Parking;EXEM
+181502;3.896096;43.599297;"43°35'57.469""N 3°53'45.946""E";34172;Place Georges Freche;"";34000;MONTPELLIER;12/04/2023;En extérieur;RPUB_154552.pdf;Oui;3.31;Rue / Route / Parking;EXEM
+181509;3.756267;43.445824;"43°26'44.966""N 3°45'22.561""E";34108;"Place de l'Hôtel de Ville";"";34110;FRONTIGNAN;19/04/2023;En extérieur;RPUB_154555.pdf;Oui;0.25;Rue / Route / Parking;EXEM
+181510;3.213029;43.3429;"43°20'34.440""N 3°12'46.904""E";34032;Place Gabriel Peri;"";34500;BEZIERS;19/04/2023;En extérieur;RPUB_154563.pdf;Oui;1.02;Rue / Route / Parking;EXEM
+181514;1.429452;43.668993;"43°40'8.375""N 1°25'46.027""E";31022;Place Jean Bazerque;"";31140;AUCAMVILLE;12/04/2023;En extérieur;RPUB_154542.pdf;Oui;1.17;Rue / Route / Parking;EXEM
+181521;1.497081;43.426886;"43°25'36.790""N 1°29'49.492""E";31240;Chemin De Panici;"";31450;ISSUS;21/04/2023;En intérieur;RPUB_154587.pdf;Oui;0.19;"Lieu d'habitation";EXEM
+181525;1.474582;43.58709;"43°35'13.524""N 1°28'28.495""E";31555;Avenue de Savoie;"";31500;TOULOUSE;24/04/2023;En extérieur;RPUB_154596.pdf;Oui;1.47;"Lieu d'habitation";EXEM
+181534;1.350288;43.480118;"43°28'48.425""N 1°21'1.037""E";31533;Place Geraud Lavergne;"";31600;SAUBENS;04/04/2023;En extérieur;RPUB_154602.pdf;Oui;0.2;Rue / Route / Parking;EXEM
+181536;3.953678;43.563935;"43°33'50.166""N 3°57'13.241""E";34198;Place Carnot;"";34470;PEROLS;12/04/2023;En extérieur;RPUB_154621.pdf;Oui;0.3;Rue / Route / Parking;EXEM
+181539;1.47558;43.545904;"43°32'45.254""N 1°28'32.088""E";31446;Place Charles de Gaulle;"";31520;RAMONVILLE SAINT AGNE;04/04/2023;En extérieur;RPUB_154611.pdf;Oui;0.35;Rue / Route / Parking;EXEM
+181543;1.504312;43.665039;"43°39'54.140""N 1°30'15.523""E";31488;Place de la mairie;"";31240;SAINT JEAN;03/04/2023;En extérieur;RPUB_154608.pdf;Oui;1.33;Rue / Route / Parking;EXEM
+181545;0.583904;43.646882;"43°38'48.775""N 0°35'2.054""E";32013;Place de la Libération;"";32000;AUCH;24/04/2023;En extérieur;RPUB_154612.pdf;Oui;1.36;Rue / Route / Parking;EXEM
+181554;1.484356;43.656874;"43°39'24.746""N 1°29'3.682""E";31561;Avenue des Pyrénées;"";31240;UNION;03/04/2023;En extérieur;RPUB_154607.pdf;Oui;0.7;Rue / Route / Parking;EXEM
+181556;1.44335;43.604425;"43°36'15.930""N 1°26'36.060""E";31555;Place du Capitole;"";31000;TOULOUSE;03/04/2023;En extérieur;RPUB_154601.pdf;Oui;2.01;Rue / Route / Parking;EXEM
+181557;3.911562;43.661073;"43°39'39.863""N 3°54'41.623""E";34120;Place Frédéric Mistral;"";34830;JACOU;13/04/2023;En extérieur;RPUB_154623.pdf;Oui;0.17;Rue / Route / Parking;EXEM
+181562;1.345954;43.583134;"43°34'59.282""N 1°20'45.434""E";31557;Place de la mairie;"";31170;TOURNEFEUILLE;04/04/2023;En extérieur;RPUB_154606.pdf;Oui;0.31;Rue / Route / Parking;EXEM
+181572;1.244746;43.459284;"43°27'33.422""N 1°14'41.086""E";31253;Route Principale;"";31600;LABASTIDETTE;04/04/2023;En extérieur;RPUB_154603.pdf;Oui;0.15;Rue / Route / Parking;EXEM
+181575;1.426206;43.679341;"43°40'45.628""N 1°25'34.342""E";31186;Place Simon Montariol;"";31140;FONBEAUZARD;03/04/2023;En extérieur;RPUB_154605.pdf;Oui;0.3;Rue / Route / Parking;EXEM
+181581;1.334801;43.611114;"43°36'40.010""N 1°20'5.284""E";31149;Place Alex Raymond;"";31770;COLOMIERS;04/04/2023;En extérieur;RPUB_154604.pdf;Oui;0.35;Rue / Route / Parking;EXEM
+181583;4.013035;43.660999;"43°39'39.596""N 4°0'46.926""E";34022;Place du 14 juillet;"";34670;BAILLARGUES;13/04/2023;En extérieur;RPUB_154622.pdf;Oui;0.26;Rue / Route / Parking;EXEM
+181586;1.343572;43.525749;"43°31'32.696""N 1°20'36.859""E";31588;"Rue de l'Hôtel de ville";"";31270;VILLENEUVE TOLOSANE;24/04/2023;En extérieur;RPUB_154609.pdf;Oui;1.29;Rue / Route / Parking;EXEM
+181591;1.548793;43.471328;"43°28'16.781""N 1°32'55.655""E";31162;Place Languedoc;"";31450;DONNEVILLE;04/04/2023;En extérieur;RPUB_154610.pdf;Oui;0.24;Rue / Route / Parking;EXEM
+181613;0.074415;43.290897;"43°17'27.229""N 0°4'27.894""E";65072;Rue du 11 Novembre;"";65460;BAZET;05/04/2023;En extérieur;RPUB_154736.pdf;Oui;0.16;Rue / Route / Parking;EXEM
+181618;0.078057;43.232782;"43°13'58.015""N 0°4'41.005""E";65440;Place Jean Jaurès;"";65000;TARBES;05/04/2023;En extérieur;RPUB_154731.pdf;Oui;0.34;Rue / Route / Parking;EXEM
+181801;1.352606;44.016174;"44°0'58.226""N 1°21'9.382""E";82121;"Rue de l'Hôtel de Ville";"";82000;MONTAUBAN;12/04/2023;En extérieur;RPUB_154874.pdf;Oui;0.26;Rue / Route / Parking;EXEM
+181818;0.615385;44.203135;"44°12'11.286""N 0°36'55.386""E";47001;Place du Docteur Esquirol;"";47000;AGEN;02/05/2023;En extérieur;RPUB_154871.pdf;Oui;0.36;Rue / Route / Parking;EXEM
+181833;1.462619;43.731476;"43°43'53.314""N 1°27'45.428""E";31252;Route de Gratentour;"";31620;LABASTIDE SAINT SERNIN;03/05/2023;En extérieur;RPUB_154939.pdf;Oui;0.19;Rue / Route / Parking;EXEM
+181843;0.389392;43.516502;"43°30'59.407""N 0°23'21.811""E";32256;Route de Monclar;"";32300;MIRANDE;02/05/2023;En intérieur;RPUB_154938.pdf;Oui;3.23;"Lieu d'habitation";EXEM
+182112;-0.073491;43.108829;"43°6'31.784""N 0°4'24.568""W";65286;Rue de la Peyre Crabère;"";65100;LOURDES;22/05/2023;En intérieur;RPUB_155178.pdf;Oui;0.16;"Lieu d'habitation";EXEM
+182209;0.079153;43.227414;"43°13'38.690""N 0°4'44.951""E";65440;Rue Henri Rol Tanguy;"";65000;TARBES;29/05/2023;En intérieur;RPUB_155280.pdf;Oui;3.29;"Lieu d'habitation";EXEM
+182298;3.82513;43.605707;"43°36'20.545""N 3°49'30.468""E";34172;Rue des Grèzes;"";34070;MONTPELLIER;07/06/2023;En extérieur;RPUB_155363.pdf;Oui;2.08;"Lieu d'habitation";EXEM
+182310;1.465388;43.605846;"43°36'21.046""N 1°27'55.397""E";31555;Rue Clément;"";31500;TOULOUSE;12/06/2023;En extérieur;RPUB_155381.pdf;Oui;1.65;"Lieu d'habitation";EXEM
+182327;3.250966;43.336174;"43°20'10.226""N 3°15'3.478""E";34032;Rue Jean Franco;"";34500;BEZIERS;12/06/2023;En intérieur;RPUB_155375.pdf;Oui;0.29;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+182353;2.542861;43.178444;"43°10'42.398""N 2°32'34.300""E";11068;A61 - AIRE DES CORBIERES NORD;"";11700;CAPENDU;14/06/2023;En intérieur;RPUB_155411.pdf;Oui;0.21;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";APAVE Parisienne - Paris 17
+182380;0.585104;43.648432;"43°38'54.355""N 0°35'6.374""E";32013;Rue Louis Aucoin;"";32000;AUCH;13/06/2023;En intérieur;RPUB_155436.pdf;Oui;0.86;"Lieu d'habitation";EXEM
+182408;1.448484;43.561666;"43°33'41.998""N 1°26'54.542""E";31555;Chemin des Oliviers;"";31400;TOULOUSE;05/06/2023;En extérieur;RPUB_155493.pdf;Oui;5.71;Rue / Route / Parking;EXEM
+182412;1.492197;43.628971;"43°37'44.296""N 1°29'31.909""E";31044;Avenue Georges Pompidou;"";31130;BALMA;12/06/2023;En extérieur;RPUB_155479.pdf;Oui;2.18;Rue / Route / Parking;EXEM
+182414;1.386251;43.563026;"43°33'46.894""N 1°23'10.504""E";31555;Chemin de Basso Cambo;"";31100;TOULOUSE;31/05/2023;En extérieur;RPUB_155482.pdf;Oui;3.87;Rue / Route / Parking;EXEM
+182415;1.465796;43.573234;"43°34'23.642""N 1°27'56.866""E";31555;Allée des sciences appliquées;"";31400;TOULOUSE;02/06/2023;En extérieur;RPUB_155487.pdf;Oui;0.93;Rue / Route / Parking;EXEM
+182418;1.532196;43.554624;"43°33'16.646""N 1°31'55.906""E";31506;Place de la Poste;"";31650;SAINT ORENS DE GAMEVILLE;12/06/2023;En extérieur;RPUB_155497.pdf;Oui;2.26;Rue / Route / Parking;EXEM
+182419;1.420047;43.618136;"43°37'5.290""N 1°25'12.169""E";31555;Rue Ferdinand Lassalle;"";31200;TOULOUSE;05/06/2023;En extérieur;RPUB_155490.pdf;Oui;1.4;Rue / Route / Parking;EXEM
+182422;1.393079;43.539185;"43°32'21.066""N 1°23'35.084""E";31433;Chemin de la Saudrune;"";31120;PORTET SUR GARONNE;06/06/2023;En extérieur;RPUB_155478.pdf;Oui;1.23;Rue / Route / Parking;EXEM
+182424;1.506033;43.596659;"43°35'47.972""N 1°30'21.719""E";31044;Allée Paul Gauguin;"";31130;BALMA;12/06/2023;En extérieur;RPUB_155489.pdf;Oui;1.3;Rue / Route / Parking;EXEM
+182425;1.458233;43.621129;"43°37'16.064""N 1°27'29.639""E";31555;Avenue de Lavaur;"";31500;TOULOUSE;01/06/2023;En extérieur;RPUB_155496.pdf;Oui;1.07;Rue / Route / Parking;EXEM
+182430;1.491338;43.628051;"43°37'40.984""N 1°29'28.817""E";31044;Avenue Georges Pompidou;"";31130;BALMA;12/06/2023;En extérieur;RPUB_155486.pdf;Oui;3.68;Rue / Route / Parking;EXEM
+182431;1.385951;43.570271;"43°34'12.976""N 1°23'9.424""E";31555;Rue Paul Mesplé;"";31100;TOULOUSE;31/05/2023;En extérieur;RPUB_155481.pdf;Oui;3.44;Rue / Route / Parking;EXEM
+182433;0.060076;43.264907;"43°15'53.665""N 0°3'36.274""E";65100;Rue Ampère;"";65320;BORDERES SUR L ECHEZ;26/06/2023;En extérieur;RPUB_155517.pdf;Oui;0.94;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+182434;1.457363;43.606632;"43°36'23.875""N 1°27'26.507""E";31555;Avenue du cimetière;"";31500;TOULOUSE;01/06/2023;En extérieur;RPUB_155495.pdf;Oui;2.51;Rue / Route / Parking;EXEM
+182435;1.394774;43.578734;"43°34'43.442""N 1°23'41.186""E";31555;Impasse du Mirailhon;"";31100;TOULOUSE;31/05/2023;En extérieur;RPUB_155483.pdf;Oui;2.58;Rue / Route / Parking;EXEM
+182438;1.445575;43.600339;"43°36'1.220""N 1°26'44.070""E";31555;Rue Alsace Lorraine;"";31000;TOULOUSE;01/06/2023;En extérieur;RPUB_155480.pdf;Oui;1.23;Rue / Route / Parking;EXEM
+182440;1.467947;43.606156;"43°36'22.162""N 1°28'4.609""E";31555;Rue François;"";31500;TOULOUSE;01/06/2023;En extérieur;RPUB_155494.pdf;Oui;3.09;Rue / Route / Parking;EXEM
+182441;1.478047;43.612994;"43°36'46.778""N 1°28'40.969""E";31555;"Avenue de l'Hers";"";31000;TOULOUSE;05/06/2023;En extérieur;RPUB_155477.pdf;Oui;0.17;Rue / Route / Parking;EXEM
+182450;1.39786;43.58894;"43°35'20.184""N 1°23'52.296""E";31555;Rue Jean Doujat;"";31100;TOULOUSE;31/05/2023;En extérieur;RPUB_155484.pdf;Oui;1.42;Rue / Route / Parking;EXEM
+182452;1.443017;43.584078;"43°35'2.681""N 1°26'34.861""E";31555;Avenue Jean Moulin;"";31400;TOULOUSE;02/06/2023;En extérieur;RPUB_155488.pdf;Oui;1.77;Rue / Route / Parking;EXEM
+182455;1.430587;43.619249;"43°37'9.296""N 1°25'50.113""E";31555;Rue Alphonse Daudet;"";31200;TOULOUSE;05/06/2023;En extérieur;RPUB_155491.pdf;Oui;2.23;Rue / Route / Parking;EXEM
+182456;1.367455;43.602748;"43°36'9.893""N 1°22'2.838""E";31555;Rue Marie-Louise Dissard;"";31300;TOULOUSE;05/06/2023;En extérieur;RPUB_155492.pdf;Oui;2.74;Rue / Route / Parking;EXEM
+182458;1.41981;43.55694;"43°33'24.984""N 1°25'11.316""E";31555;Chemin des Silos;"";31100;TOULOUSE;31/05/2023;En extérieur;RPUB_155485.pdf;Oui;1.05;Rue / Route / Parking;EXEM
+182460;3.877788;43.596889;"43°35'48.800""N 3°52'40.037""E";34172;Avenue Albert Dubout;"";34000;MONTPELLIER;07/06/2023;En extérieur;RPUB_155574.pdf;Oui;1.8;Rue / Route / Parking;EXEM
+182461;3.880636;43.60936;"43°36'33.696""N 3°52'50.290""E";34172;Place de la Comédie;"";34000;MONTPELLIER;08/06/2023;En extérieur;RPUB_155569.pdf;Oui;2.53;Rue / Route / Parking;EXEM
+182470;1.371527;43.552645;"43°33'9.522""N 1°22'17.497""E";31157;Rue Aristide Berges;"";31270;CUGNAUX;19/06/2023;En extérieur;RPUB_155532.pdf;Oui;2.25;Rue / Route / Parking;EXEM
+182471;3.809295;43.612326;"43°36'44.374""N 3°48'33.462""E";34123;Chemin de la Plaine;"";34990;JUVIGNAC;16/06/2023;En extérieur;RPUB_155610.pdf;Oui;1.0;Rue / Route / Parking;EXEM
+182472;1.401875;43.525708;"43°31'32.549""N 1°24'6.750""E";31433;Route de la Clé;"";31120;PORTET SUR GARONNE;19/06/2023;En extérieur;RPUB_155528.pdf;Oui;0.63;Rue / Route / Parking;EXEM
+182476;3.866935;43.608906;"43°36'32.062""N 3°52'0.966""E";34172;Rue Guillaume Pellicier;"";34070;MONTPELLIER;08/06/2023;En extérieur;RPUB_155588.pdf;Oui;2.05;Rue / Route / Parking;EXEM
+182477;3.837992;43.615424;"43°36'55.526""N 3°50'16.771""E";34172;Rue Dante Alighieri;"";34080;MONTPELLIER;13/06/2023;En extérieur;RPUB_155582.pdf;Oui;1.93;Rue / Route / Parking;EXEM
+182479;3.540578;43.307315;"43°18'26.334""N 3°32'26.081""E";34150;Chemin du Littoral;"";34340;MARSEILLAN;31/05/2023;En extérieur;RPUB_155592.pdf;Oui;1.82;Rue / Route / Parking;EXEM
+182482;3.850165;43.622798;"43°37'22.073""N 3°51'0.594""E";34172;Rue du Fesquet;"";34090;MONTPELLIER;13/06/2023;En extérieur;RPUB_155597.pdf;Oui;1.99;Rue / Route / Parking;EXEM
+182484;3.888034;43.595611;"43°35'44.200""N 3°53'16.922""E";34172;Avenue de Palavas;"";34000;MONTPELLIER;08/06/2023;En extérieur;RPUB_155576.pdf;Oui;1.83;Rue / Route / Parking;EXEM
+182485;3.937247;43.559589;"43°33'34.520""N 3°56'14.089""E";34129;Route de Pérols;"";34970;LATTES;15/06/2023;En extérieur;RPUB_155608.pdf;Oui;1.61;Rue / Route / Parking;EXEM
+182487;3.871978;43.582239;"43°34'56.060""N 3°52'19.121""E";34172;Avenue de Maurin;"";34070;MONTPELLIER;07/06/2023;En extérieur;RPUB_155587.pdf;Oui;2.39;Rue / Route / Parking;EXEM
+182490;3.898258;43.611999;"43°36'43.196""N 3°53'53.729""E";34172;Avenue de la Pompignane;"";34000;MONTPELLIER;06/06/2023;En extérieur;RPUB_155578.pdf;Oui;0.88;Rue / Route / Parking;EXEM
+182492;3.20571;43.326692;"43°19'36.091""N 3°12'20.556""E";34032;Impasse Henri Clouzot;"";34500;BEZIERS;05/06/2023;En extérieur;RPUB_155604.pdf;Oui;1.97;Rue / Route / Parking;EXEM
+182494;3.91034;43.611353;"43°36'40.871""N 3°54'37.224""E";34172;Rue Guiglielmo Marconi;"";34000;MONTPELLIER;06/06/2023;En extérieur;RPUB_155577.pdf;Oui;1.57;Rue / Route / Parking;EXEM
+182495;3.855364;43.622105;"43°37'19.578""N 3°51'19.310""E";34172;Avenue du Père Soulas;"";34090;MONTPELLIER;13/06/2023;En extérieur;RPUB_155598.pdf;Oui;1.23;Rue / Route / Parking;EXEM
+182496;3.886384;43.610442;"43°36'37.591""N 3°53'10.982""E";34172;Allée Henri II de Montmorency;"";34000;MONTPELLIER;06/06/2023;En extérieur;RPUB_155572.pdf;Oui;3.62;Rue / Route / Parking;EXEM
+182497;3.869827;43.598948;"43°35'56.213""N 3°52'11.377""E";34172;Rue Saint-Cléophas;"";34070;MONTPELLIER;07/06/2023;En extérieur;RPUB_155589.pdf;Oui;3.14;Rue / Route / Parking;EXEM
+182499;1.436503;43.647005;"43°38'49.218""N 1°26'11.411""E";31555;Chemin du Baron;"";31200;TOULOUSE;20/06/2023;En extérieur;RPUB_155531.pdf;Oui;0.51;Rue / Route / Parking;EXEM
+182505;3.873983;43.626819;"43°37'36.548""N 3°52'26.339""E";34172;Avenue de la Justice de Castelnau;"";34090;MONTPELLIER;14/06/2023;En extérieur;RPUB_155596.pdf;Oui;1.99;Rue / Route / Parking;EXEM
+182506;3.886499;43.608954;"43°36'32.234""N 3°53'11.396""E";34172;Rue des Pertuisanes;"";34000;MONTPELLIER;06/06/2023;En extérieur;RPUB_155573.pdf;Oui;1.48;Rue / Route / Parking;EXEM
+182508;3.833872;43.620856;"43°37'15.082""N 3°50'1.939""E";34172;Avenue des moulins;"";34080;MONTPELLIER;13/06/2023;En extérieur;RPUB_155590.pdf;Oui;1.33;Rue / Route / Parking;EXEM
+182510;3.846149;43.570675;"43°34'14.430""N 3°50'46.136""E";34270;Rond Point de la Piste Volante;"";34430;SAINT JEAN DE VEDAS;15/06/2023;En extérieur;RPUB_155593.pdf;Oui;3.43;Rue / Route / Parking;EXEM
+182511;3.94569;43.568704;"43°34'7.334""N 3°56'44.484""E";34198;Avenue de Montpellier;"";34470;PEROLS;16/06/2023;En extérieur;RPUB_155603.pdf;Oui;1.7;Rue / Route / Parking;EXEM
+182516;3.84791;43.57204;"43°34'19.344""N 3°50'52.476""E";34270;Route de Sète;"";34430;SAINT JEAN DE VEDAS;15/06/2023;En extérieur;RPUB_155602.pdf;Oui;1.85;Rue / Route / Parking;EXEM
+182517;1.379514;43.629785;"43°37'47.226""N 1°22'46.250""E";31069;Avenue Didier Daurat;"";31700;BLAGNAC;20/06/2023;En extérieur;RPUB_155533.pdf;Oui;1.08;Rue / Route / Parking;EXEM
+182518;3.879247;43.603555;"43°36'12.798""N 3°52'45.289""E";34172;Rue du Grand Saint-jean;"";34000;MONTPELLIER;08/06/2023;En extérieur;RPUB_155584.pdf;Oui;2.22;Rue / Route / Parking;EXEM
+182519;3.880781;43.605013;"43°36'18.047""N 3°52'50.812""E";34172;Rue Jules Ferry;"";34000;MONTPELLIER;08/06/2023;En extérieur;RPUB_155580.pdf;Oui;2.31;Rue / Route / Parking;EXEM
+182520;3.862363;43.624198;"43°37'27.113""N 3°51'44.507""E";34172;"Avenue Frédéric Sabatier d'Espeyran";"";34090;MONTPELLIER;13/06/2023;En extérieur;RPUB_155595.pdf;Oui;2.19;Rue / Route / Parking;EXEM
+182524;3.885791;43.609552;"43°36'34.387""N 3°53'8.848""E";34172;"Boulevard d'Antigone";"";34000;MONTPELLIER;06/06/2023;En extérieur;RPUB_155585.pdf;Oui;2.24;Rue / Route / Parking;EXEM
+182526;3.904352;43.602988;"43°36'10.757""N 3°54'15.667""E";34172;Avenue du Mondial 98;"";34000;MONTPELLIER;06/06/2023;En extérieur;RPUB_155575.pdf;Oui;1.59;Rue / Route / Parking;EXEM
+182528;3.458869;43.551099;"43°33'3.956""N 3°27'31.928""E";34194;Liberet;"";34230;PAULHAN;12/06/2023;En extérieur;RPUB_155600.pdf;Oui;1.26;Rue / Route / Parking;EXEM
+182530;1.391938;43.708059;"43°42'29.012""N 1°23'30.977""E";31293;Route de Paris;"";31150;LESPINASSE;20/06/2023;En extérieur;RPUB_155529.pdf;Oui;1.07;Rue / Route / Parking;EXEM
+182532;3.905618;43.571686;"43°34'18.070""N 3°54'20.225""E";34129;"Avenue de  L'Agau";"";34970;LATTES;15/06/2023;En extérieur;RPUB_155609.pdf;Oui;2.21;Rue / Route / Parking;EXEM
+182534;3.833894;43.620879;"43°37'15.164""N 3°50'2.018""E";34172;Avenue des Moulins;"";34080;MONTPELLIER;13/06/2023;En extérieur;RPUB_155581.pdf;Oui;1.26;Rue / Route / Parking;EXEM
+182538;3.870664;43.605909;"43°36'21.272""N 3°52'14.390""E";34172;Rue Toiras;"";34000;MONTPELLIER;14/06/2023;En extérieur;RPUB_155579.pdf;Oui;3.27;Rue / Route / Parking;EXEM
+182539;3.846416;43.644422;"43°38'39.919""N 3°50'47.098""E";34172;Impasse de la Blanquette;"";34090;MONTPELLIER;14/06/2023;En extérieur;RPUB_155594.pdf;Oui;1.26;Rue / Route / Parking;EXEM
+182543;3.86399;43.592786;"43°35'34.030""N 3°51'50.364""E";34172;Rue Marcel Paul;"";34000;MONTPELLIER;07/06/2023;En extérieur;RPUB_155571.pdf;Oui;3.05;Rue / Route / Parking;EXEM
+182546;1.344516;43.619402;"43°37'9.847""N 1°20'40.258""E";31149;Avenue Georges Guynemer;"";31770;COLOMIERS;21/06/2023;En extérieur;RPUB_155534.pdf;Oui;1.85;Rue / Route / Parking;EXEM
+182547;3.855793;43.538104;"43°32'17.174""N 3°51'20.855""E";34337;D116;"";34750;VILLENEUVE LES MAGUELONE;15/06/2023;En extérieur;RPUB_155606.pdf;Oui;1.63;Rue / Route / Parking;EXEM
+182550;3.828409;43.611164;"43°36'40.190""N 3°49'42.272""E";34172;Rue de Grèzes;"";34070;MONTPELLIER;07/06/2023;En extérieur;RPUB_155586.pdf;Oui;2.09;Rue / Route / Parking;EXEM
+182553;1.392002;43.708082;"43°42'29.095""N 1°23'31.207""E";31293;Place du Boulodrome;"";31150;LESPINASSE;20/06/2023;En extérieur;RPUB_155530.pdf;Oui;1.1;Rue / Route / Parking;EXEM
+182554;3.871372;43.606763;"43°36'24.347""N 3°52'16.939""E";34172;Cours Gambetta;"";34000;MONTPELLIER;08/06/2023;En extérieur;RPUB_155583.pdf;Oui;0.85;Rue / Route / Parking;EXEM
+182556;3.895748;43.593019;"43°35'34.868""N 3°53'44.693""E";34172;Rue de Saint-Hilaire;"";34000;MONTPELLIER;14/06/2023;En extérieur;RPUB_155570.pdf;Oui;1.29;Rue / Route / Parking;EXEM
+182558;3.792021;43.607268;"43°36'26.165""N 3°47'31.276""E";34259;Chemin des Cabrides;"";34680;SAINT GEORGES D ORQUES;12/06/2023;En extérieur;RPUB_155605.pdf;Oui;2.49;Rue / Route / Parking;EXEM
+182560;3.46655;43.295474;"43°17'43.706""N 3°27'59.580""E";34003;Chemin de Guiraudette;"";34300;AGDE;31/05/2023;En extérieur;RPUB_155601.pdf;Oui;1.56;Rue / Route / Parking;EXEM
+182561;3.822405;43.633901;"43°38'2.044""N 3°49'20.658""E";34172;"Avenue de l'Europe";"";34080;MONTPELLIER;14/06/2023;En extérieur;RPUB_155591.pdf;Oui;1.18;Rue / Route / Parking;EXEM
+182563;3.915446;43.643071;"43°38'35.056""N 3°54'55.606""E";34057;Avenue André Ampère;"";34170;CASTELNAU LE LEZ;16/06/2023;En extérieur;RPUB_155599.pdf;Oui;0.71;Rue / Route / Parking;EXEM
+182571;1.320922;43.603136;"43°36'11.290""N 1°19'15.319""E";31149;Allée de la Neste;"";31770;COLOMIERS;21/06/2023;En extérieur;RPUB_155535.pdf;Oui;1.4;Rue / Route / Parking;EXEM
+182572;3.92795;43.698753;"43°41'55.511""N 3°55'40.620""E";34014;Devès de Péret;"";34820;ASSAS;16/06/2023;En extérieur;RPUB_155607.pdf;Oui;2.47;Rue / Route / Parking;EXEM
+182850;1.334107;43.613371;"43°36'48.136""N 1°20'2.785""E";31149;Allée du Poitou;"";31770;COLOMIERS;03/07/2023;En extérieur;RPUB_155904.pdf;Oui;0.76;Rue / Route / Parking;EXEM
+183031;1.007646;43.911604;"43°54'41.774""N 1°0'27.526""E";82180;Esparberry;"";82500;SERIGNAC;26/06/2023;En extérieur;RPUB_156078.pdf;Oui;1.17;Rue / Route / Parking;EXEM
+183064;3.81835;43.642116;"43°38'31.618""N 3°49'6.060""E";34172;Place Jacques Brel;"";34000;MONTPELLIER;10/07/2023;En extérieur;RPUB_156140.pdf;Oui;0.93;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183067;3.87032;43.59643;"43°35'47.148""N 3°52'13.152""E";34172;Place Cardinal Verdier;"";34070;MONTPELLIER;10/07/2023;En extérieur;RPUB_156138.pdf;Oui;1.57;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183070;3.864377;43.588971;"43°35'20.296""N 3°51'51.757""E";34172;Rue Fernandel;"";34070;MONTPELLIER;10/07/2023;En intérieur;RPUB_156141.pdf;Oui;0.24;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183078;3.869956;43.596399;"43°35'47.036""N 3°52'11.842""E";34172;Place Cardinal Verdier;"";34000;MONTPELLIER;10/07/2023;En extérieur;RPUB_156139.pdf;Oui;1.79;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183080;3.884666;43.59484;"43°35'41.424""N 3°53'4.798""E";34172;Avenue Maréchel Leclerc;"";34070;MONTPELLIER;10/07/2023;En intérieur;RPUB_156137.pdf;Oui;0.21;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183081;3.842275;43.621941;"43°37'18.988""N 3°50'32.190""E";34172;Rue des Avants Monts;"";34080;MONTPELLIER;11/07/2023;En intérieur;RPUB_156201.pdf;Oui;0.18;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183101;3.884633;43.59542;"43°35'43.512""N 3°53'4.679""E";34172;Rue des Razeteurs;"";34070;MONTPELLIER;11/07/2023;En intérieur;RPUB_156204.pdf;Oui;0.26;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183105;3.915615;43.601901;"43°36'6.844""N 3°54'56.214""E";34172;Boulevard Pénéloppe;"";34000;MONTPELLIER;11/07/2023;En intérieur;RPUB_156205.pdf;Oui;1.79;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183106;3.895404;43.599181;"43°35'57.052""N 3°53'43.454""E";34172;Place Georges Frêche;"";34000;MONTPELLIER;11/07/2023;En extérieur;RPUB_156203.pdf;Oui;0.39;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183122;3.888602;43.622027;"43°37'19.297""N 3°53'18.967""E";34172;Avenue Saint Lazare;"";34090;MONTPELLIER;11/07/2023;En intérieur;RPUB_156206.pdf;Oui;0.18;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183123;1.454065;43.60962;"43°36'34.632""N 1°27'14.634""E";31555;Boulevard Pierre Semard;"";31000;TOULOUSE;11/07/2023;En extérieur;RPUB_156152.pdf;Oui;1.39;Rue / Route / Parking;EXEM
+183131;3.915615;43.601901;"43°36'6.844""N 3°54'56.214""E";34172;Boulevard Pénélope;"";34000;MONTPELLIER;11/07/2023;En intérieur;RPUB_156208.pdf;Oui;3.81;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183140;3.915615;43.601901;"43°36'6.844""N 3°54'56.214""E";34172;Boulevard Pénélope;"";34000;MONTPELLIER;11/07/2023;En extérieur;RPUB_156202.pdf;Oui;1.29;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183144;3.915615;43.601901;"43°36'6.844""N 3°54'56.214""E";34172;Boulevard Pénéloppe;"";34000;MONTPELLIER;11/07/2023;En extérieur;RPUB_156207.pdf;Oui;3.28;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183149;3.876286;43.625071;"43°37'30.256""N 3°52'34.630""E";34172;Rue Emile Littré;"";34090;MONTPELLIER;12/07/2023;En intérieur;RPUB_156244.pdf;Oui;0.17;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183150;3.870063;43.644678;"43°38'40.841""N 3°52'12.227""E";34172;Rue Jean François Breton;"";34090;MONTPELLIER;12/07/2023;En intérieur;RPUB_156249.pdf;Oui;0.35;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183159;3.83028;43.635648;"43°38'8.333""N 3°49'49.008""E";34172;Avenue de Fez;"";34080;MONTPELLIER;12/07/2023;En extérieur;RPUB_156252.pdf;Oui;0.73;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183160;3.879461;43.626997;"43°37'37.189""N 3°52'46.060""E";34172;Rue des Tourterelles;"";34090;MONTPELLIER;12/07/2023;En extérieur;RPUB_156253.pdf;Oui;0.81;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183166;3.879697;43.614182;"43°36'51.055""N 3°52'46.909""E";34172;Impasse Petite Corraterie;"";34000;MONTPELLIER;12/07/2023;En intérieur;RPUB_156246.pdf;Oui;0.31;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183170;3.884525;43.607214;"43°36'25.970""N 3°53'4.290""E";34172;"Rue Jeanne d'Arc";"";34000;MONTPELLIER;12/07/2023;En extérieur;RPUB_156248.pdf;Oui;0.74;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183172;3.88077;43.603524;"43°36'12.686""N 3°52'50.772""E";34172;Rue Général Riu;"";34000;MONTPELLIER;12/07/2023;En intérieur;RPUB_156243.pdf;Oui;0.9;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183178;3.890812;43.607835;"43°36'28.206""N 3°53'26.923""E";34172;Place Zeus;"";34000;MONTPELLIER;12/07/2023;En extérieur;RPUB_156255.pdf;Oui;1.16;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183179;3.88165;43.618431;"43°37'6.352""N 3°52'53.940""E";34172;Rue Lunaret;"";34000;MONTPELLIER;12/07/2023;En intérieur;RPUB_156245.pdf;Oui;1.1;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183180;0.083617;43.235832;"43°14'8.995""N 0°5'1.021""E";65440;Boulevard du Martinet;"";65000;TARBES;03/07/2023;En extérieur;RPUB_156240.pdf;Oui;8.08;"Lieu d'habitation";EXEM
+183184;3.878496;43.617235;"43°37'2.046""N 3°52'42.586""E";34172;Rue Ferdinand Fabre;"";34000;MONTPELLIER;11/07/2023;En extérieur;RPUB_156250.pdf;Oui;0.41;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183187;3.888602;43.62184;"43°37'18.624""N 3°53'18.967""E";34172;Avenue Saint Lazare;"";34090;MONTPELLIER;11/07/2023;En intérieur;RPUB_156256.pdf;Oui;0.3;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183191;3.888302;43.608713;"43°36'31.367""N 3°53'17.887""E";34172;"Boulevard d'Antigone";"";34000;MONTPELLIER;12/07/2023;En intérieur;RPUB_156257.pdf;Oui;0.32;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183194;3.862349;43.619078;"43°37'8.681""N 3°51'44.456""E";34172;Rue Eugène Labiche;"";34090;MONTPELLIER;11/07/2023;En extérieur;RPUB_156251.pdf;Oui;0.77;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183197;3.87886;43.610516;"43°36'37.858""N 3°52'43.896""E";34172;"Rue Embouque d'or";"";34000;MONTPELLIER;13/07/2023;En intérieur;RPUB_156280.pdf;Oui;0.34;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183205;3.849571;43.601519;"43°36'5.468""N 3°50'58.456""E";34172;Rue Père Cyprien Rome;"";34070;MONTPELLIER;13/07/2023;En intérieur;RPUB_156279.pdf;Oui;0.22;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183210;3.903472;43.595576;"43°35'44.074""N 3°54'12.499""E";34172;Rue Claude Lévi-Strauss;"";34000;MONTPELLIER;13/07/2023;En intérieur;RPUB_156283.pdf;Oui;0.17;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183211;3.834851;43.609374;"43°36'33.746""N 3°50'5.464""E";34172;Rue Gustave Eiffel;"";34000;MONTPELLIER;13/07/2023;En intérieur;RPUB_156281.pdf;Oui;0.33;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183220;3.864109;43.588965;"43°35'20.274""N 3°51'50.792""E";34172;Rue Louis Aragon;"";34070;MONTPELLIER;13/07/2023;En intérieur;RPUB_156282.pdf;Oui;0.2;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183227;3.819745;43.628054;"43°37'40.994""N 3°49'11.082""E";34172;Rue de Lausanne;"";34000;MONTPELLIER;13/07/2023;En extérieur;RPUB_156305.pdf;Oui;0.41;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183236;3.879461;43.626407;"43°37'35.065""N 3°52'46.060""E";34172;Rue des Tourterelles;"";34000;MONTPELLIER;17/07/2023;En intérieur;RPUB_156304.pdf;Oui;0.25;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183240;0.352888;43.171378;"43°10'16.961""N 0°21'10.397""E";65128;Route De Lannemezan;"";65330;CASTELBAJAC;17/07/2023;En intérieur;RPUB_156308.pdf;Oui;0.22;"Lieu d'habitation";EXEM
+183241;3.84618;43.616675;"43°37'0.030""N 3°50'46.248""E";34172;Avenue Saint Clément;"";34000;MONTPELLIER;17/07/2023;En intérieur;RPUB_156306.pdf;Oui;0.19;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183371;3.423613;43.392391;"43°23'32.608""N 3°25'25.007""E";34289;"Rue de L'Escourbiat";"";34630;SAINT THIBERY;21/07/2023;En extérieur;RPUB_156445.pdf;Oui;0.99;"Lieu d'habitation";EXEM
+183397;1.43687;43.621677;"43°37'18.037""N 1°26'12.732""E";31555;Avenue Frédéric Estebe;"";31200;TOULOUSE;24/07/2023;En extérieur;RPUB_156462.pdf;Oui;1.67;"Lieu d'habitation";EXEM
+183399;1.370201;43.105628;"43°6'20.261""N 1°22'12.724""E";09061;Place Ladeveze;"";09350;BORDES SUR ARIZE;24/07/2023;En intérieur;RPUB_156464.pdf;Oui;0.23;"Lieu d'habitation";EXEM
+183500;1.447152;43.638614;"43°38'19.010""N 1°26'49.747""E";31555;Rue Edmond Rostand;"";31200;TOULOUSE;28/07/2023;En intérieur;RPUB_156559.pdf;Oui;0.32;"Lieu d'habitation";EXEM
+183590;2.273893;43.603037;"43°36'10.933""N 2°16'26.015""E";81065;Chemin de las Tinos;"";81100;CASTRES;31/07/2023;En extérieur;RPUB_156738.pdf;Oui;0.42;"Lieu d'habitation";EXEM
+183595;0.973785;44.096441;"44°5'47.188""N 0°58'25.626""E";82101;Chemin Des Moles;"";82200;MALAUSE;01/08/2023;En extérieur;RPUB_156639.pdf;Oui;0.15;"Lieu d'habitation";EXEM
+183652;1.814289;43.680288;"43°40'49.037""N 1°48'51.440""E";81140;Rue du Parc de la Planette;"";81500;LAVAUR;01/08/2023;En intérieur;RPUB_156737.pdf;Oui;0.35;"Lieu d'habitation";EXEM
+183654;2.273893;43.603037;"43°36'10.933""N 2°16'26.015""E";81065;Chaussée de las Tinos;"";81100;CASTRES;31/07/2023;En extérieur;RPUB_156739.pdf;Oui;0.0;"Lieu d'habitation";EXEM
+183670;2.35297;43.212119;"43°12'43.628""N 2°21'10.692""E";11069;Rue Aime Ramond;"";11000;CARCASSONNE;21/04/2023;En extérieur;RPUB_156649.pdf;Oui;0.35;Rue / Route / Parking;EXEM
+183674;2.112943;43.999308;"43°59'57.509""N 2°6'46.595""E";81048;Impasse Puech Bertrand;"";81130;CAGNAC LES MINES;01/08/2023;En intérieur;RPUB_156736.pdf;Oui;0.23;"Lieu d'habitation";EXEM
+183735;4.077299;44.124913;"44°7'29.687""N 4°4'38.276""E";30007;"Place de l'Hôtel de Ville";"";30100;ALES;13/04/2023;En extérieur;RPUB_156759.pdf;Oui;1.4;Rue / Route / Parking;EXEM
+183768;1.731469;43.817037;"43°49'1.333""N 1°43'53.288""E";81070;Avenue Jean Berenguier;"";81800;COUFOULEUX;17/04/2023;En extérieur;RPUB_156843.pdf;Oui;0.18;Rue / Route / Parking;EXEM
+183771;2.160761;44.049903;"44°2'59.651""N 2°9'38.740""E";81060;Place de la Libération;"";81400;CARMAUX;17/04/2023;En extérieur;RPUB_156842.pdf;Oui;1.4;Rue / Route / Parking;EXEM
+183785;2.146389;43.927124;"43°55'37.646""N 2°8'47.000""E";81004;"Rue de l'Hôtel de Ville";"";81000;ALBI;17/04/2023;En extérieur;RPUB_156841.pdf;Oui;0.22;Rue / Route / Parking;EXEM
+183842;3.828596;43.616997;"43°37'1.189""N 3°49'42.946""E";34172;Rue Jeanne de Charrin;"";34080;MONTPELLIER;11/07/2023;En intérieur;RPUB_156902.pdf;Oui;0.45;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183843;3.816968;43.628768;"43°37'43.565""N 3°49'1.085""E";34172;Avenue de Tipasa;"";34080;MONTPELLIER;12/07/2023;En extérieur;RPUB_156901.pdf;Oui;0.57;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+183958;3.715329;43.978589;"43°58'42.920""N 3°42'55.184""E";30325;Rue Pied de ville;"";30440;SUMENE;18/08/2023;En intérieur;RPUB_157011.pdf;Oui;0.16;"Lieu d'habitation";EXEM
+183994;1.62014;43.360711;"43°21'38.560""N 1°37'12.504""E";31396;Rue Erik Saties;"";31560;NAILLOUX;16/08/2023;En intérieur;RPUB_157056.pdf;Oui;0.28;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+184002;3.415378;43.637677;"43°38'15.637""N 3°24'55.361""E";34079;Chemin des Albacedes;"";34800;CLERMONT L HERAULT;18/08/2023;En intérieur;RPUB_157055.pdf;Oui;0.23;"Lieu d'habitation";EXEM
+184007;1.83742;43.696029;"43°41'45.704""N 1°50'14.712""E";81116;Chemin Du Faget;"";81500;LABASTIDE SAINT GEORGES;18/08/2023;En intérieur;RPUB_157072.pdf;Oui;0.32;"Lieu d'habitation";EXEM
+184026;2.766947;43.301629;"43°18'5.864""N 2°46'1.009""E";34026;"Route d'Artix";"";34210;BEAUFORT;17/08/2023;En extérieur;RPUB_157054.pdf;Oui;0.37;Divers;EXEM
+184027;1.838;43.701567;"43°42'5.641""N 1°50'16.800""E";81116;Rue Pierre Reverdy;"";81500;LABASTIDE SAINT GEORGES;18/08/2023;En intérieur;RPUB_157073.pdf;Oui;0.24;"Lieu d'habitation";EXEM
+184301;2.137764;43.957986;"43°57'28.750""N 2°8'15.950""E";81004;Chemin de Balard;"";81000;ALBI;04/07/2023;En extérieur;RPUB_157395.pdf;Oui;1.0;Rue / Route / Parking;EXEM
+184411;2.163019;43.917528;"43°55'3.101""N 2°9'46.868""E";81004;Rue Gustave Eiffel;"";81000;ALBI;04/07/2023;En extérieur;RPUB_157467.pdf;Oui;1.47;Rue / Route / Parking;EXEM
+184458;3.013251;43.191675;"43°11'30.030""N 3°0'47.704""E";11262;Rue Francis de Pressensé;"";11100;NARBONNE;31/05/2023;En extérieur;RPUB_157504.pdf;Oui;1.49;Rue / Route / Parking;EXEM
+184479;3.000088;43.180592;"43°10'50.131""N 3°0'0.317""E";11262;Boulevard Dr Lacroix;"";11100;NARBONNE;31/05/2023;En extérieur;RPUB_157505.pdf;Oui;2.52;Rue / Route / Parking;EXEM
+184504;1.4641;43.613366;"43°36'48.118""N 1°27'50.760""E";31555;Rue Joachim Génard;"";31500;TOULOUSE;01/09/2023;En extérieur;RPUB_157562.pdf;Oui;0.67;"Lieu d'habitation";EXEM
+184555;1.83109;43.697495;"43°41'50.982""N 1°49'51.924""E";81116;Rue Bernart de Veutadour;"";81500;LABASTIDE SAINT GEORGES;07/09/2023;En intérieur;RPUB_157648.pdf;Oui;0.24;"Lieu d'habitation";EXEM
+184579;1.839159;43.700466;"43°42'1.678""N 1°50'20.972""E";81116;Impasse Jean-Malrieu;"";81500;LABASTIDE SAINT GEORGES;07/09/2023;En intérieur;RPUB_157635.pdf;Oui;0.3;"Lieu d'habitation";EXEM
+184582;1.83197;43.700148;"43°42'0.533""N 1°49'55.092""E";81116;Place Charles de Gaulle;"";81500;LABASTIDE SAINT GEORGES;07/09/2023;En intérieur;RPUB_157634.pdf;Oui;0.29;"Lieu d'habitation";EXEM
+184610;0.704314;43.653684;"43°39'13.262""N 0°42'15.530""E";32237;Route De Lahitte;"";32270;MARSAN;08/09/2023;En intérieur;RPUB_157695.pdf;Oui;0.6;"Lieu d'habitation";EXEM
+184627;2.862883;43.682258;"43°40'56.129""N 2°51'46.379""E";81192;Rue Puech Capel;"";81320;MURAT SUR VEBRE;08/09/2023;En intérieur;RPUB_157699.pdf;Oui;0.3;"Lieu d'habitation";EXEM
+184642;2.862797;43.682266;"43°40'56.158""N 2°51'46.069""E";81192;Rue Puech capel;"";81320;MURAT SUR VEBRE;08/09/2023;En intérieur;RPUB_157700.pdf;Oui;0.1;"Lieu d'habitation";EXEM
+184896;1.833;43.697448;"43°41'50.813""N 1°49'58.800""E";81116;Chemin De Treil;"";81500;LABASTIDE SAINT GEORGES;15/09/2023;En intérieur;RPUB_157950.pdf;Oui;0.35;"Lieu d'habitation";EXEM
+184933;0.536122;43.658962;"43°39'32.263""N 0°32'10.039""E";32013;Route de Vic;"";32000;AUCH;13/06/2023;En extérieur;RPUB_157999.pdf;Oui;2.0;Rue / Route / Parking;EXEM
+184990;2.440059;43.973986;"43°58'26.350""N 2°26'24.212""E";81019;Route de Trébis;"";81340;ASSAC;22/09/2023;En intérieur;RPUB_158062.pdf;Oui;0.25;"Lieu d'habitation";EXEM
+185013;3.894246;43.602405;"43°36'8.658""N 3°53'39.286""E";34172;Chemin de Moulares;"";34070;MONTPELLIER;22/09/2023;En extérieur;RPUB_158060.pdf;Oui;0.26;"Lieu d'habitation";EXEM
+185047;3.858261;43.611891;"43°36'42.808""N 3°51'29.740""E";34172;Rue Boussinesq;"";34000;MONTPELLIER;27/09/2023;En intérieur;RPUB_158118.pdf;Oui;0.37;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+185053;3.193395;43.398445;"43°23'54.402""N 3°11'36.222""E";34084;Rue Jules Ferry;"";34490;CORNEILHAN;27/09/2023;En intérieur;RPUB_158119.pdf;Oui;0.32;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+185055;3.669326;43.394797;"43°23'41.269""N 3°40'9.574""E";34301;Boulevard Joliot Curie;"";34200;SETE;27/09/2023;En extérieur;RPUB_158123.pdf;Oui;3.06;"Lieu d'habitation";EXEM
+185070;1.37887;43.589662;"43°35'22.783""N 1°22'43.932""E";31555;Place Jacques Sauvegrain;"";31300;TOULOUSE;28/09/2023;En intérieur;RPUB_158145.pdf;Oui;0.25;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+185076;1.150503;43.550664;"43°33'2.390""N 1°9'1.811""E";31075;Impasse des Coquelicots;"";31470;BONREPOS SUR AUSSONNELLE;28/09/2023;En extérieur;RPUB_158148.pdf;Oui;0.32;"Lieu d'habitation";EXEM
+185082;1.378634;43.588155;"43°35'17.358""N 1°22'43.082""E";31555;Chemin Rocamadour;"";31100;TOULOUSE;28/09/2023;En intérieur;RPUB_158147.pdf;Oui;3.08;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+185097;1.378119;43.589095;"43°35'20.742""N 1°22'41.228""E";31555;Place Sauvegrain;"";31100;TOULOUSE;28/09/2023;En intérieur;RPUB_158146.pdf;Oui;0.31;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+185102;0.578542;44.16853;"44°10'6.708""N 0°34'42.751""E";47091;"Place Des Droits de l'Enfant";"";47310;ESTILLAC;29/09/2023;En intérieur;RPUB_158166.pdf;Oui;0.31;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+185114;0.57807;44.168269;"44°10'5.768""N 0°34'41.052""E";47091;Place De la Mairie;"";47310;ESTILLAC;29/09/2023;En intérieur;RPUB_158165.pdf;Oui;0.28;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+185186;1.842999;43.705306;"43°42'19.102""N 1°50'34.796""E";81116;Avenue De Briatexte;"";81500;LABASTIDE SAINT GEORGES;06/10/2023;En intérieur;RPUB_158249.pdf;Oui;0.28;"Lieu d'habitation";EXEM
+185196;1.396401;43.613001;"43°36'46.804""N 1°23'47.044""E";31555;Rue Jean Viollis;"";31300;TOULOUSE;28/09/2023;En intérieur;RPUB_158246.pdf;Oui;2.99;"Lieu d'habitation";EXEM
+185197;1.474593;43.586903;"43°35'12.851""N 1°28'28.535""E";31555;Avenue Jean Rieux;"";31500;TOULOUSE;06/10/2023;En extérieur;RPUB_158245.pdf;Oui;1.74;"Lieu d'habitation";EXEM
+185198;2.162976;43.917619;"43°55'3.428""N 2°9'46.714""E";81004;Rue Gustave Eiffel;"";81000;ALBI;09/10/2023;En extérieur;RPUB_158259.pdf;Oui;1.12;Rue / Route / Parking;EXEM
+185201;2.137764;43.957986;"43°57'28.750""N 2°8'15.950""E";81004;Chemin de Balard;"";81000;ALBI;09/10/2023;En extérieur;RPUB_158260.pdf;Oui;0.98;Rue / Route / Parking;EXEM
+185205;1.151463;43.297807;"43°17'52.105""N 1°9'5.267""E";31261;Route De Marignac;"";31390;LAFITTE VIGORDANE;10/10/2023;En extérieur;RPUB_158272.pdf;Oui;0.27;Rue / Route / Parking;EXEM
+185208;1.176469;43.307592;"43°18'27.331""N 1°10'35.288""E";31261;Voie Romaine de Querilhac;"";31390;LAFITTE VIGORDANE;10/10/2023;En extérieur;RPUB_158271.pdf;Oui;0.31;Rue / Route / Parking;EXEM
+185235;1.430154;43.616427;"43°36'59.137""N 1°25'48.554""E";31555;Avenue Jean Dagnaux;"";31200;TOULOUSE;12/10/2023;En intérieur;RPUB_158295.pdf;Oui;0.1;"Lieu d'habitation";EXEM
+185252;1.430154;43.616427;"43°36'59.137""N 1°25'48.554""E";31555;Avenue Jean Dagnaux;"";31200;TOULOUSE;12/10/2023;En extérieur;RPUB_158294.pdf;Oui;0.42;"Lieu d'habitation";EXEM
+185319;1.430583;43.619231;"43°37'9.232""N 1°25'50.099""E";31555;Rue Alphonse Daudet;"";31200;TOULOUSE;12/10/2023;En extérieur;RPUB_158402.pdf;Oui;2.22;Rue / Route / Parking;EXEM
+185320;1.465879;43.573243;"43°34'23.675""N 1°27'57.164""E";31555;Allée des sciences appliquées;"";31400;TOULOUSE;11/10/2023;En extérieur;RPUB_158399.pdf;Oui;1.48;Rue / Route / Parking;EXEM
+185322;1.371424;43.552638;"43°33'9.497""N 1°22'17.126""E";31157;Rue Aristide Berges;"";31270;CUGNAUX;10/10/2023;En extérieur;RPUB_158403.pdf;Oui;1.5;Rue / Route / Parking;EXEM
+185323;1.454058;43.609622;"43°36'34.639""N 1°27'14.609""E";31555;Boulevard Pierre Semard;"";31000;TOULOUSE;12/10/2023;En extérieur;RPUB_158394.pdf;Oui;1.47;Rue / Route / Parking;EXEM
+185324;1.448479;43.561642;"43°33'41.911""N 1°26'54.524""E";31555;Chemin des Oliviers;"";31400;TOULOUSE;11/10/2023;En extérieur;RPUB_158404.pdf;Oui;5.51;Rue / Route / Parking;EXEM
+185325;1.392968;43.539224;"43°32'21.206""N 1°23'34.685""E";31433;Chemin de la Saudrune;"";31120;PORTET SUR GARONNE;10/10/2023;En extérieur;RPUB_158392.pdf;Oui;0.87;Rue / Route / Parking;EXEM
+185326;1.478155;43.613056;"43°36'47.002""N 1°28'41.358""E";31555;"Avenue de l'Hers";"";31000;TOULOUSE;13/10/2023;En extérieur;RPUB_158391.pdf;Oui;0.19;Rue / Route / Parking;EXEM
+185330;1.445603;43.600377;"43°36'1.357""N 1°26'44.171""E";31555;Rue Alsace Lorraine;"";31000;TOULOUSE;11/10/2023;En extérieur;RPUB_158395.pdf;Oui;1.46;Rue / Route / Parking;EXEM
+185331;1.420155;43.618058;"43°37'5.009""N 1°25'12.558""E";31555;Rue Ferdinand Lassalle;"";31200;TOULOUSE;12/10/2023;En extérieur;RPUB_158401.pdf;Oui;0.92;Rue / Route / Parking;EXEM
+185332;1.457362;43.606631;"43°36'23.872""N 1°27'26.503""E";31555;Avenue du cimetière;"";31500;TOULOUSE;11/10/2023;En extérieur;RPUB_158406.pdf;Oui;2.65;Rue / Route / Parking;EXEM
+185338;1.467947;43.606156;"43°36'22.162""N 1°28'4.609""E";31555;Rue François;"";31500;TOULOUSE;13/10/2023;En extérieur;RPUB_158405.pdf;Oui;3.51;Rue / Route / Parking;EXEM
+185339;1.401873;43.525705;"43°31'32.538""N 1°24'6.743""E";31433;Route de la Clé;"";31120;PORTET SUR GARONNE;10/10/2023;En extérieur;RPUB_158397.pdf;Oui;1.02;Rue / Route / Parking;EXEM
+185341;1.419747;43.557039;"43°33'25.340""N 1°25'11.089""E";31555;Chemin des Silos;"";31100;TOULOUSE;11/10/2023;En extérieur;RPUB_158396.pdf;Oui;1.07;Rue / Route / Parking;EXEM
+185343;1.492197;43.628971;"43°37'44.296""N 1°29'31.909""E";31044;Avenue Georges Pompidou;"";31130;BALMA;13/10/2023;En extérieur;RPUB_158393.pdf;Oui;2.1;Rue / Route / Parking;EXEM
+185344;1.458233;43.621129;"43°37'16.064""N 1°27'29.639""E";31555;Avenue de Lavaur;"";31500;TOULOUSE;12/10/2023;En extérieur;RPUB_158407.pdf;Oui;0.91;Rue / Route / Parking;EXEM
+185348;1.443114;43.584051;"43°35'2.584""N 1°26'35.210""E";31555;Avenue Jean Moulin;"";31400;TOULOUSE;11/10/2023;En extérieur;RPUB_158400.pdf;Oui;2.07;Rue / Route / Parking;EXEM
+185349;1.491265;43.627991;"43°37'40.768""N 1°29'28.554""E";31044;Avenue Georges Pompidou;"";31130;BALMA;13/10/2023;En extérieur;RPUB_158398.pdf;Oui;5.69;Rue / Route / Parking;EXEM
+185373;1.200964;43.292732;"43°17'33.835""N 1°12'3.470""E";31107;Chemin Naudon;"";31390;CARBONNE;23/10/2023;En intérieur;RPUB_158440.pdf;Oui;0.27;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+185392;1.464765;43.604495;"43°36'16.182""N 1°27'53.154""E";31555;Rue Du Poisson;"";31500;TOULOUSE;24/10/2023;En intérieur;RPUB_158454.pdf;Oui;0.66;"Lieu d'habitation";EXEM
+185404;3.45883;43.551095;"43°33'3.942""N 3°27'31.788""E";34194;Liberet;"";34230;PAULHAN;25/10/2023;En extérieur;RPUB_158470.pdf;Oui;2.71;Rue / Route / Parking;EXEM
+185498;1.320922;43.603136;"43°36'11.290""N 1°19'15.319""E";31149;Allée de la Neste;"";31770;COLOMIERS;30/10/2023;En extérieur;RPUB_158558.pdf;Oui;1.89;Rue / Route / Parking;EXEM
+185501;1.436503;43.647005;"43°38'49.218""N 1°26'11.411""E";31555;Chemin du Baron;"";31200;TOULOUSE;30/10/2023;En extérieur;RPUB_158554.pdf;Oui;0.89;Rue / Route / Parking;EXEM
+185504;1.391981;43.708067;"43°42'29.041""N 1°23'31.132""E";31293;Place du Boulodrome;"";31150;LESPINASSE;30/10/2023;En extérieur;RPUB_158553.pdf;Oui;1.02;Rue / Route / Parking;EXEM
+185508;1.379471;43.629878;"43°37'47.561""N 1°22'46.096""E";31069;Avenue Didier Daurat;"";31700;BLAGNAC;30/10/2023;En extérieur;RPUB_158555.pdf;Oui;1.63;Rue / Route / Parking;EXEM
+185510;1.391981;43.708059;"43°42'29.012""N 1°23'31.132""E";31293;Route de Paris;"";31150;LESPINASSE;30/10/2023;En extérieur;RPUB_158552.pdf;Oui;1.17;Rue / Route / Parking;EXEM
+185512;1.334107;43.613371;"43°36'48.136""N 1°20'2.785""E";31149;Allée du Poitou;"";31770;COLOMIERS;30/10/2023;En extérieur;RPUB_158556.pdf;Oui;0.82;Rue / Route / Parking;EXEM
+185514;0.621543;44.187674;"44°11'15.626""N 0°37'17.555""E";47001;Rue De Lille;"";47000;AGEN;27/10/2023;En intérieur;RPUB_158561.pdf;Oui;0.26;"Lieu d'habitation";EXEM
+185515;1.344538;43.619378;"43°37'9.761""N 1°20'40.337""E";31149;Avenue Georges Guynemer;"";31770;COLOMIERS;30/10/2023;En extérieur;RPUB_158557.pdf;Oui;0.67;Rue / Route / Parking;EXEM
+185533;3.866935;43.608906;"43°36'32.062""N 3°52'0.966""E";34172;Rue Guillaume Pellicier;"";34070;MONTPELLIER;01/11/2023;En extérieur;RPUB_158615.pdf;Oui;2.1;Rue / Route / Parking;EXEM
+185535;1.465044;43.604798;"43°36'17.273""N 1°27'54.158""E";31555;Rue Labat de Savignac;"";31500;TOULOUSE;31/10/2023;En intérieur;RPUB_158622.pdf;Oui;1.04;"Lieu d'habitation";EXEM
+185537;3.898237;43.611953;"43°36'43.031""N 3°53'53.653""E";34172;Avenue de la Pompignane;"";34000;MONTPELLIER;01/11/2023;En extérieur;RPUB_158611.pdf;Oui;0.96;Rue / Route / Parking;EXEM
+185545;3.91034;43.611353;"43°36'40.871""N 3°54'37.224""E";34172;Rue Guiglielmo Marconi;"";34000;MONTPELLIER;01/11/2023;En extérieur;RPUB_158610.pdf;Oui;1.51;Rue / Route / Parking;EXEM
+185551;3.8859;43.60949;"43°36'34.164""N 3°53'9.240""E";34172;"Boulevard d'Antigone";"";34000;MONTPELLIER;01/11/2023;En extérieur;RPUB_158614.pdf;Oui;2.25;Rue / Route / Parking;EXEM
+185557;3.879911;43.608421;"43°36'30.316""N 3°52'47.680""E";34172;Place de la Comédie;"";34000;MONTPELLIER;01/11/2023;En extérieur;RPUB_158608.pdf;Oui;2.56;Rue / Route / Parking;EXEM
+185575;3.87135;43.606771;"43°36'24.376""N 3°52'16.860""E";34172;Cours Gambetta;"";34000;MONTPELLIER;01/11/2023;En extérieur;RPUB_158613.pdf;Oui;0.72;Rue / Route / Parking;EXEM
+185576;1.38593;43.570216;"43°34'12.778""N 1°23'9.348""E";31555;Rue Paul Mesplé;"";31100;TOULOUSE;31/10/2023;En extérieur;RPUB_158603.pdf;Oui;2.21;Rue / Route / Parking;EXEM
+185578;1.394877;43.578751;"43°34'43.504""N 1°23'41.557""E";31555;Impasse du Mirailhon;"";31100;TOULOUSE;31/10/2023;En extérieur;RPUB_158605.pdf;Oui;2.2;Rue / Route / Parking;EXEM
+185586;3.870325;43.606117;"43°36'22.021""N 3°52'13.170""E";34172;Rue Toiras;"";34000;MONTPELLIER;01/11/2023;En extérieur;RPUB_158612.pdf;Oui;1.74;Rue / Route / Parking;EXEM
+185587;1.397839;43.588963;"43°35'20.267""N 1°23'52.220""E";31555;Rue Jean Doujat;"";31100;TOULOUSE;31/10/2023;En extérieur;RPUB_158606.pdf;Oui;1.47;Rue / Route / Parking;EXEM
+185593;1.386254;43.563074;"43°33'47.066""N 1°23'10.514""E";31555;Chemin de Basso Cambo;"";31100;TOULOUSE;31/10/2023;En extérieur;RPUB_158604.pdf;Oui;3.08;Rue / Route / Parking;EXEM
+185596;3.886384;43.610442;"43°36'37.591""N 3°53'10.982""E";34172;Allée Henri II de Montmorency;"";34000;MONTPELLIER;01/11/2023;En extérieur;RPUB_158609.pdf;Oui;3.03;Rue / Route / Parking;EXEM
+185603;1.367455;43.602747;"43°36'9.889""N 1°22'2.838""E";31555;Rue Marie-Louise Dissard;"";31300;TOULOUSE;31/10/2023;En extérieur;RPUB_158607.pdf;Oui;2.94;Rue / Route / Parking;EXEM
+185605;4.012735;43.615821;"43°36'56.956""N 4°0'45.846""E";34154;"Rue D'Alger";"";34130;MAUGUIO;02/11/2023;En extérieur;RPUB_158680.pdf;Oui;5.02;"Lieu d'habitation";EXEM
+185612;3.886521;43.609001;"43°36'32.404""N 3°53'11.476""E";34172;Rue des Pertuisanes;"";34000;MONTPELLIER;02/11/2023;En extérieur;RPUB_158676.pdf;Oui;1.41;Rue / Route / Parking;EXEM
+185622;3.880781;43.605013;"43°36'18.047""N 3°52'50.812""E";34172;Rue Jules Ferry;"";34000;MONTPELLIER;02/11/2023;En extérieur;RPUB_158678.pdf;Oui;2.46;Rue / Route / Parking;EXEM
+185626;3.904496;43.603006;"43°36'10.822""N 3°54'16.186""E";34172;Avenue du Mondial 98;"";34000;MONTPELLIER;02/11/2023;En extérieur;RPUB_158677.pdf;Oui;1.48;Rue / Route / Parking;EXEM
+185645;3.873475;43.600797;"43°36'2.869""N 3°52'24.510""E";34172;Rue Ernest Michel;"";34000;MONTPELLIER;02/11/2023;En extérieur;RPUB_158681.pdf;Oui;3.14;"Lieu d'habitation";EXEM
+185658;3.879097;43.603625;"43°36'13.050""N 3°52'44.749""E";34172;Rue du Grand Saint-jean;"";34000;MONTPELLIER;02/11/2023;En extérieur;RPUB_158679.pdf;Oui;2.12;Rue / Route / Parking;EXEM
+185659;3.895726;43.592988;"43°35'34.757""N 3°53'44.614""E";34172;Rue de Saint-Hilaire;"";34000;MONTPELLIER;02/11/2023;En extérieur;RPUB_158675.pdf;Oui;1.41;Rue / Route / Parking;EXEM
+185685;3.846382;43.644399;"43°38'39.836""N 3°50'46.975""E";34172;Impasse de la Blanquette;"";34090;MONTPELLIER;03/11/2023;En extérieur;RPUB_158754.pdf;Oui;1.27;Rue / Route / Parking;EXEM
+185691;3.862363;43.624198;"43°37'27.113""N 3°51'44.507""E";34172;"Avenue Frédéric Sabatier d'Espeyran";"";34090;MONTPELLIER;03/11/2023;En extérieur;RPUB_158755.pdf;Oui;1.8;Rue / Route / Parking;EXEM
+185693;3.828409;43.611164;"43°36'40.190""N 3°49'42.272""E";34172;Rue de Grèzes;"";34070;MONTPELLIER;03/11/2023;En extérieur;RPUB_158753.pdf;Oui;2.49;Rue / Route / Parking;EXEM
+185695;3.833885;43.620877;"43°37'15.157""N 3°50'1.986""E";34172;Avenue des Moulins;"";34080;MONTPELLIER;03/11/2023;En extérieur;RPUB_158751.pdf;Oui;1.36;Rue / Route / Parking;EXEM
+185696;1.868234;43.087413;"43°5'14.687""N 1°52'5.642""E";09194;Chemin de la mestrise;"";09500;MIREPOIX;04/11/2023;En intérieur;RPUB_158762.pdf;Oui;0.19;"Lieu d'habitation";EXEM
+185699;3.850165;43.622798;"43°37'22.073""N 3°51'0.594""E";34172;Rue du Fesquet;"";34090;MONTPELLIER;03/11/2023;En extérieur;RPUB_158757.pdf;Oui;2.11;Rue / Route / Parking;EXEM
+185701;1.102045;43.129044;"43°7'44.558""N 1°6'7.362""E";09120;Le Poujac;"";09230;FABAS;04/11/2023;En extérieur;RPUB_158761.pdf;Oui;0.43;"Lieu d'habitation";EXEM
+185702;3.837992;43.615424;"43°36'55.526""N 3°50'16.771""E";34172;Rue Dante Alighieri;"";34080;MONTPELLIER;03/11/2023;En extérieur;RPUB_158752.pdf;Oui;2.14;Rue / Route / Parking;EXEM
+185703;1.868211;43.087403;"43°5'14.651""N 1°52'5.560""E";09194;Chemin De la mestrise;"";09500;MIREPOIX;04/11/2023;En intérieur;RPUB_158763.pdf;Oui;0.01;"Lieu d'habitation";EXEM
+185705;3.855364;43.622105;"43°37'19.578""N 3°51'19.310""E";34172;Avenue du Père Soulas;"";34090;MONTPELLIER;03/11/2023;En extérieur;RPUB_158758.pdf;Oui;1.76;Rue / Route / Parking;EXEM
+185707;3.013251;43.191675;"43°11'30.030""N 3°0'47.704""E";11262;Rue Francis de Pressensé;"";11100;NARBONNE;04/11/2023;En extérieur;RPUB_158740.pdf;Oui;1.38;Rue / Route / Parking;EXEM
+185708;3.873983;43.626819;"43°37'36.548""N 3°52'26.339""E";34172;Avenue de la Justice de Castelnau;"";34090;MONTPELLIER;03/11/2023;En extérieur;RPUB_158756.pdf;Oui;2.31;Rue / Route / Parking;EXEM
+185887;3.852598;43.617773;"43°37'3.983""N 3°51'9.353""E";34172;Rue Croix de Las Cazes;"";34000;MONTPELLIER;13/11/2023;En intérieur;RPUB_158941.pdf;Oui;0.42;"Lieu d'habitation";EXEM
+186075;1.453135;43.438524;"43°26'18.686""N 1°27'11.286""E";31572;Route de la Baronnesse;"";31810;VENERQUE;24/11/2023;En intérieur;RPUB_159210.pdf;Oui;0.31;"Lieu d'habitation";EXEM
+186103;0.168979;43.054849;"43°3'17.456""N 0°10'8.324""E";65198;"Rue de l'Eglise";"";65200;GERDE;24/11/2023;En extérieur;RPUB_159216.pdf;Oui;0.26;"Lieu d'habitation";EXEM
+186119;1.475687;43.490129;"43°29'24.464""N 1°28'32.473""E";31448;Lotissement Les Hauts de Rebigue;"";31320;REBIGUE;24/11/2023;En intérieur;RPUB_159213.pdf;Oui;0.35;"Lieu d'habitation";EXEM
+186129;1.449809;43.443985;"43°26'38.346""N 1°26'59.312""E";31572;Résidence des Côteaux Raté;"";31810;VENERQUE;24/11/2023;En extérieur;RPUB_159211.pdf;Oui;0.35;"Lieu d'habitation";EXEM
+186160;1.452878;43.437207;"43°26'13.945""N 1°27'10.361""E";31572;Lotissement Balaitous;"";31810;VENERQUE;24/11/2023;En intérieur;RPUB_159212.pdf;Oui;0.33;"Lieu d'habitation";EXEM
+186167;1.44923;43.585069;"43°35'6.248""N 1°26'57.228""E";31555;8 Grande rue Saint Michel;"";31400;TOULOUSE;24/11/2023;En intérieur;RPUB_159288.pdf;Oui;1.4;"Lieu d'habitation";EXEM
+186223;2.914381;43.556495;"43°33'23.382""N 2°54'51.772""E";34187;Rue du Balad;"";34390;OLARGUES;28/11/2023;En intérieur;RPUB_159291.pdf;Oui;0.09;"Lieu d'habitation";EXEM
+186268;1.468048;43.605466;"43°36'19.678""N 1°28'4.973""E";31555;"Rue D'Assalit";"";31500;TOULOUSE;25/11/2023;En extérieur;RPUB_159324.pdf;Oui;3.29;"Lieu d'habitation";EXEM
+186287;3.94569;43.568704;"43°34'7.334""N 3°56'44.484""E";34198;Avenue de Montpellier;"";34470;PEROLS;30/11/2023;En extérieur;RPUB_159390.pdf;Oui;1.29;Rue / Route / Parking;EXEM
+186288;3.869848;43.598924;"43°35'56.126""N 3°52'11.453""E";34172;Rue Saint-Cléophas;"";34070;MONTPELLIER;29/11/2023;En extérieur;RPUB_159387.pdf;Oui;2.8;Rue / Route / Parking;EXEM
+186289;3.833872;43.620856;"43°37'15.082""N 3°50'1.939""E";34172;Avenue des moulins;"";34080;MONTPELLIER;28/11/2023;En extérieur;RPUB_159388.pdf;Oui;1.55;Rue / Route / Parking;EXEM
+186291;3.937279;43.559533;"43°33'34.319""N 3°56'14.204""E";34129;Route de Pérols;"";34970;LATTES;30/11/2023;En extérieur;RPUB_159393.pdf;Oui;1.45;Rue / Route / Parking;EXEM
+186295;3.791908;43.60733;"43°36'26.388""N 3°47'30.869""E";34259;Chemin des Cabrides;"";34680;SAINT GEORGES D ORQUES;29/11/2023;En extérieur;RPUB_159391.pdf;Oui;2.92;Rue / Route / Parking;EXEM
+186300;1.532013;43.554497;"43°33'16.189""N 1°31'55.247""E";31506;Place de la Poste;"";31650;SAINT ORENS DE GAMEVILLE;25/11/2023;En extérieur;RPUB_159381.pdf;Oui;2.42;Rue / Route / Parking;EXEM
+186306;3.888034;43.595611;"43°35'44.200""N 3°53'16.922""E";34172;Avenue de Palavas;"";34000;MONTPELLIER;29/11/2023;En extérieur;RPUB_159385.pdf;Oui;1.96;Rue / Route / Parking;EXEM
+186308;3.905598;43.57168;"43°34'18.048""N 3°54'20.153""E";34129;"Avenue de  L'Agau";"";34970;LATTES;30/11/2023;En extérieur;RPUB_159394.pdf;Oui;2.61;Rue / Route / Parking;EXEM
+186311;3.822375;43.633895;"43°38'2.022""N 3°49'20.550""E";34172;"Avenue de l'Europe";"";34080;MONTPELLIER;28/11/2023;En extérieur;RPUB_159389.pdf;Oui;1.58;Rue / Route / Parking;EXEM
+186321;3.809314;43.612336;"43°36'44.410""N 3°48'33.530""E";34123;Chemin de la Plaine;"";34990;JUVIGNAC;28/11/2023;En extérieur;RPUB_159395.pdf;Oui;0.91;Rue / Route / Parking;EXEM
+186322;3.877831;43.596827;"43°35'48.577""N 3°52'40.192""E";34172;Avenue Albert Dubout;"";34000;MONTPELLIER;29/11/2023;En extérieur;RPUB_159384.pdf;Oui;1.6;Rue / Route / Parking;EXEM
+186331;3.871978;43.582239;"43°34'56.060""N 3°52'19.121""E";34172;Avenue de Maurin;"";34070;MONTPELLIER;28/11/2023;En extérieur;RPUB_159386.pdf;Oui;2.35;Rue / Route / Parking;EXEM
+186337;3.855779;43.538083;"43°32'17.099""N 3°51'20.804""E";34337;D116;"";34750;VILLENEUVE LES MAGUELONE;29/11/2023;En extérieur;RPUB_159392.pdf;Oui;1.66;Rue / Route / Parking;EXEM
+186341;1.506028;43.596656;"43°35'47.962""N 1°30'21.701""E";31044;Allée Paul Gauguin;"";31130;BALMA;25/11/2023;En extérieur;RPUB_159375.pdf;Oui;1.05;Rue / Route / Parking;EXEM
+186346;3.863947;43.59277;"43°35'33.972""N 3°51'50.209""E";34172;Rue Marcel Paul;"";34000;MONTPELLIER;29/11/2023;En extérieur;RPUB_159383.pdf;Oui;1.75;Rue / Route / Parking;EXEM
+186388;3.915403;43.643117;"43°38'35.221""N 3°54'55.451""E";34057;Avenue André Ampère;"";34170;CASTELNAU LE LEZ;01/12/2023;En extérieur;RPUB_159464.pdf;Oui;0.61;Rue / Route / Parking;EXEM
+186389;3.846149;43.570675;"43°34'14.430""N 3°50'46.136""E";34270;Rond point de la Piste Volante;"";34430;SAINT JEAN DE VEDAS;01/12/2023;En extérieur;RPUB_159463.pdf;Oui;3.99;Rue / Route / Parking;EXEM
+186408;3.927977;43.698767;"43°41'55.561""N 3°55'40.717""E";34014;Devès de Péret;"";34820;ASSAS;01/12/2023;En extérieur;RPUB_159467.pdf;Oui;2.23;Rue / Route / Parking;EXEM
+186409;3.540578;43.307315;"43°18'26.334""N 3°32'26.081""E";34150;Chemin du Littoral;"";34340;MARSEILLAN;04/12/2023;En extérieur;RPUB_159462.pdf;Oui;2.11;Rue / Route / Parking;EXEM
+186411;3.000088;43.180592;"43°10'50.131""N 3°0'0.317""E";11262;Boulevard Dr Lacroix;"";11100;NARBONNE;04/12/2023;En extérieur;RPUB_159442.pdf;Oui;2.83;Rue / Route / Parking;EXEM
+186424;3.466444;43.295481;"43°17'43.732""N 3°27'59.198""E";34003;Chemin de Guiraudette;"";34300;AGDE;04/12/2023;En extérieur;RPUB_159465.pdf;Oui;0.94;Rue / Route / Parking;EXEM
+186425;3.84791;43.57204;"43°34'19.344""N 3°50'52.476""E";34270;Route de Sète;"";34430;SAINT JEAN DE VEDAS;01/12/2023;En extérieur;RPUB_159466.pdf;Oui;1.5;Rue / Route / Parking;EXEM
+186444;2.183661;43.576225;"43°34'34.410""N 2°11'1.180""E";81273;Chemin des Hérissous;"";81710;SAIX;05/12/2023;En extérieur;RPUB_159512.pdf;Oui;0.39;"Lieu d'habitation";EXEM
+186454;1.384581;43.580386;"43°34'49.390""N 1°23'4.492""E";31555;Rue Tastavin;"";31000;TOULOUSE;05/12/2023;En intérieur;RPUB_159508.pdf;Oui;1.15;"Lieu d'habitation";EXEM
+186456;1.345975;43.499966;"43°29'59.878""N 1°20'45.510""E";31458;Chemin des Moines;"";31120;ROQUES;05/12/2023;En extérieur;RPUB_159488.pdf;Oui;0.23;Rue / Route / Parking;EXEM
+186457;1.57845;43.582734;"43°34'57.842""N 1°34'42.420""E";31163;Rue De Fontbonne;"";31280;DREMIL LAFAGE;05/12/2023;En extérieur;RPUB_159513.pdf;Oui;0.31;"Lieu d'habitation";EXEM
+186470;3.20571;43.326692;"43°19'36.091""N 3°12'20.556""E";34032;Impasse Henri Clouzot;"";34500;BEZIERS;24/10/2023;En extérieur;RPUB_159502.pdf;Oui;2.2;Rue / Route / Parking;EXEM
+186477;1.429542;43.662764;"43°39'45.950""N 1°25'46.351""E";31022;Rue Paul Cezanne;"";31140;AUCAMVILLE;06/12/2023;En intérieur;RPUB_159533.pdf;Oui;0.02;"Lieu d'habitation";EXEM
+186484;1.429574;43.662811;"43°39'46.120""N 1°25'46.466""E";31022;Rue Paul Cezanne;"";31140;AUCAMVILLE;06/12/2023;En intérieur;RPUB_159532.pdf;Oui;0.24;"Lieu d'habitation";EXEM
+186506;1.321685;43.514269;"43°30'51.368""N 1°19'18.066""E";31203;Rue Agnes Varda;"";31270;FROUZINS;06/12/2023;En extérieur;RPUB_159591.pdf;Oui;2.41;"Lieu d'habitation";EXEM
+186533;1.321302;43.515123;"43°30'54.443""N 1°19'16.687""E";31203;"Place De l'hotel de ville";"";31270;FROUZINS;06/12/2023;En extérieur;RPUB_159592.pdf;Oui;1.77;"Lieu d'habitation";EXEM
+186554;1.016242;43.908228;"43°54'29.621""N 1°0'58.471""E";82180;Esparberry;"";82500;SERIGNAC;27/10/2023;En extérieur;RPUB_159542.pdf;Oui;1.06;Rue / Route / Parking;EXEM
+186555;1.320741;43.514564;"43°30'52.430""N 1°19'14.668""E";31203;Square Marguerite Duras;"";31270;FROUZINS;06/12/2023;En extérieur;RPUB_159590.pdf;Oui;2.99;"Lieu d'habitation";EXEM
+186558;1.321793;43.514899;"43°30'53.636""N 1°19'18.455""E";31203;"Rue de l'hôtel de ville Robert Ratier";"";31270;FROUZINS;06/12/2023;En intérieur;RPUB_159593.pdf;Oui;2.37;"Lieu d'habitation";EXEM
+186572;1.448801;43.606266;"43°36'22.558""N 1°26'55.684""E";31555;Allée Jean-Jaures;"";31000;TOULOUSE;25/11/2023;En extérieur;RPUB_159625.pdf;Oui;1.69;"Lieu d'habitation";EXEM
+186584;1.441956;43.601053;"43°36'3.791""N 1°26'31.042""E";31555;Rue Clémence Isaure;"";31000;TOULOUSE;05/12/2023;En extérieur;RPUB_159638.pdf;Oui;9.78;"Lieu d'habitation";EXEM
+186785;3.763285;43.429507;"43°25'46.225""N 3°45'47.826""E";34108;Avenue Vaubant;"";34110;FRONTIGNAN;21/12/2023;En extérieur;RPUB_159842.pdf;Oui;0.33;Rue / Route / Parking;EXEM
+187275;1.331534;43.527214;"43°31'37.970""N 1°19'53.522""E";31588;"Rue d'Aquitaine";"";31270;VILLENEUVE TOLOSANE;10/01/2024;En intérieur;RPUB_160343.pdf;Oui;0.27;"Lieu d'habitation";EXEM
+187276;1.330483;43.527074;"43°31'37.466""N 1°19'49.739""E";31588;Rue du Languedoc;"";31270;VILLENEUVE TOLOSANE;10/01/2024;En intérieur;RPUB_160339.pdf;Oui;0.28;"Lieu d'habitation";EXEM
+187277;1.331234;43.527448;"43°31'38.813""N 1°19'52.442""E";31588;"Rue d'Aquitaine";"";31270;VILLENEUVE TOLOSANE;10/01/2024;En intérieur;RPUB_160344.pdf;Oui;0.2;"Lieu d'habitation";EXEM
+187283;1.331539;43.528124;"43°31'41.246""N 1°19'53.540""E";31588;"Rue d'Aquitaine";"";31270;VILLENEUVE TOLOSANE;10/01/2024;En intérieur;RPUB_160340.pdf;Oui;0.43;"Lieu d'habitation";EXEM
+187288;0.536122;43.658962;"43°39'32.263""N 0°32'10.039""E";32013;Route de Vic;"";32000;AUCH;04/01/2024;En extérieur;RPUB_160324.pdf;Oui;1.59;Rue / Route / Parking;EXEM
+187290;1.331012;43.526928;"43°31'36.941""N 1°19'51.643""E";31588;Rue du Languedoc;"";31270;VILLENEUVE TOLOSANE;10/01/2024;En intérieur;RPUB_160342.pdf;Oui;0.34;"Lieu d'habitation";EXEM
+187291;1.330297;43.526861;"43°31'36.700""N 1°19'49.069""E";31588;Rue du Languedoc;"";31270;VILLENEUVE TOLOSANE;10/01/2024;En intérieur;RPUB_160341.pdf;Oui;0.33;"Lieu d'habitation";EXEM
+187302;1.331792;43.527502;"43°31'39.007""N 1°19'54.451""E";31588;"Rue d'Aquitaine";"";31270;VILLENEUVE TOLOSANE;10/01/2024;En intérieur;RPUB_160345.pdf;Oui;0.46;"Lieu d'habitation";EXEM
+187307;1.330824;43.529184;"43°31'45.062""N 1°19'50.966""E";31588;Boulevard des Ecoles;"";31270;VILLENEUVE TOLOSANE;11/01/2024;En intérieur;RPUB_160366.pdf;Oui;0.31;"Lieu d'habitation";EXEM
+187308;1.329002;43.52835;"43°31'42.060""N 1°19'44.407""E";31588;Rue de Gascogne;"";31270;VILLENEUVE TOLOSANE;11/01/2024;En intérieur;RPUB_160363.pdf;Oui;0.27;"Lieu d'habitation";EXEM
+187309;1.330692;43.529205;"43°31'45.138""N 1°19'50.491""E";31588;Rue Clément Ader;"";31270;VILLENEUVE TOLOSANE;11/01/2024;En intérieur;RPUB_160367.pdf;Oui;0.27;"Lieu d'habitation";EXEM
+187316;1.330333;43.529455;"43°31'46.038""N 1°19'49.199""E";31588;Rue Clement Ader;"";31270;VILLENEUVE TOLOSANE;11/01/2024;En intérieur;RPUB_160361.pdf;Oui;0.27;"Lieu d'habitation";EXEM
+187318;1.332744;43.526495;"43°31'35.382""N 1°19'57.878""E";31588;Rue de Provence;"";31270;VILLENEUVE TOLOSANE;11/01/2024;En intérieur;RPUB_160362.pdf;Oui;0.3;"Lieu d'habitation";EXEM
+187322;1.333046;43.526491;"43°31'35.368""N 1°19'58.966""E";31588;Rue de Provence;"";31270;VILLENEUVE TOLOSANE;11/01/2024;En intérieur;RPUB_160364.pdf;Oui;0.29;"Lieu d'habitation";EXEM
+187326;1.328828;43.528118;"43°31'41.225""N 1°19'43.781""E";31588;Rue de Gascogne;"";31270;VILLENEUVE TOLOSANE;11/01/2024;En intérieur;RPUB_160368.pdf;Oui;0.24;"Lieu d'habitation";EXEM
+187329;1.440317;43.607435;"43°36'26.766""N 1°26'25.141""E";31555;Rue Cartailhac;"";31000;TOULOUSE;12/01/2024;En intérieur;RPUB_160386.pdf;Oui;4.25;"Lieu d'habitation";EXEM
+187332;1.32928;43.529127;"43°31'44.857""N 1°19'45.408""E";31588;Rue des Bleuets;"";31270;VILLENEUVE TOLOSANE;12/01/2024;En intérieur;RPUB_160387.pdf;Oui;0.29;"Lieu d'habitation";EXEM
+187337;1.33105;43.527566;"43°31'39.238""N 1°19'51.780""E";31588;"Rue d'Aquitaine";"";31270;VILLENEUVE TOLOSANE;12/01/2024;En intérieur;RPUB_160385.pdf;Oui;0.22;"Lieu d'habitation";EXEM
+187343;3.838499;43.640998;"43°38'27.593""N 3°50'18.596""E";34172;Rue de la Croix de Lavit;"";34090;MONTPELLIER;21/07/2023;En extérieur;RPUB_160404.pdf;Oui;1.42;Divers;EXEM
+187347;1.376274;44.015511;"44°0'55.840""N 1°22'34.586""E";82121;Rue Winston Churchill;"";82000;MONTAUBAN;18/08/2023;En intérieur;RPUB_160406.pdf;Oui;0.5;Divers;EXEM
+187348;1.333328;43.525042;"43°31'30.151""N 1°19'59.981""E";31588;Rue de Provence;"";31270;VILLENEUVE TOLOSANE;15/01/2024;En intérieur;RPUB_160415.pdf;Oui;0.3;"Lieu d'habitation";EXEM
+187352;3.83852;43.641169;"43°38'28.208""N 3°50'18.672""E";34172;Rue de la Croix de Lavit;"";34090;MONTPELLIER;09/06/2023;En extérieur;RPUB_160400.pdf;Oui;0.71;"Lieu d'habitation";EXEM
+187362;1.329544;43.528072;"43°31'41.059""N 1°19'46.358""E";31588;Rue de Gascogne;"";31270;VILLENEUVE TOLOSANE;15/01/2024;En intérieur;RPUB_160416.pdf;Oui;0.28;"Lieu d'habitation";EXEM
+187364;1.329958;43.529495;"43°31'46.182""N 1°19'47.849""E";31588;Boulevard des Ecoles;"";31270;VILLENEUVE TOLOSANE;15/01/2024;En intérieur;RPUB_160414.pdf;Oui;0.28;"Lieu d'habitation";EXEM
+187366;1.33117;43.528965;"43°31'44.274""N 1°19'52.212""E";31588;Boulevard des Ecoles;"";31270;VILLENEUVE TOLOSANE;15/01/2024;En intérieur;RPUB_160417.pdf;Oui;0.25;"Lieu d'habitation";EXEM
+187374;1.465214;43.59831;"43°35'53.916""N 1°27'54.770""E";31555;Rue Marancin;"";31500;TOULOUSE;27/04/2023;En intérieur;RPUB_160429.pdf;Oui;0.63;"Lieu d'habitation";EXEM
+187378;1.33056;43.526746;"43°31'36.286""N 1°19'50.016""E";31588;Rue du Languedoc;"";31270;VILLENEUVE TOLOSANE;16/01/2024;En intérieur;RPUB_160443.pdf;Oui;0.29;"Lieu d'habitation";EXEM
+187386;1.33147;43.52618;"43°31'34.248""N 1°19'53.292""E";31588;Rue du Languedoc;"";31270;VILLENEUVE TOLOSANE;16/01/2024;En intérieur;RPUB_160438.pdf;Oui;0.32;"Lieu d'habitation";EXEM
+187388;1.328294;43.531415;"43°31'53.094""N 1°19'41.858""E";31588;Chemin des Mailheaux;"";31270;VILLENEUVE TOLOSANE;12/01/2024;En intérieur;RPUB_160439.pdf;Oui;0.3;"Lieu d'habitation";EXEM
+187397;1.333337;43.526615;"43°31'35.814""N 1°20'0.013""E";31588;Rue des Roses;"";31270;VILLENEUVE TOLOSANE;17/01/2024;En intérieur;RPUB_160452.pdf;Oui;0.35;"Lieu d'habitation";EXEM
+187405;1.330976;43.5266;"43°31'35.760""N 1°19'51.514""E";31588;Rue du Languedoc;"";31270;VILLENEUVE TOLOSANE;17/01/2024;En intérieur;RPUB_160453.pdf;Oui;0.36;"Lieu d'habitation";EXEM
+187408;3.351517;43.616745;"43°37'0.282""N 3°21'5.461""E";34175;Impasse des Joncas;"";34800;MOUREZE;18/01/2024;En extérieur;RPUB_160466.pdf;Oui;0.31;"Lieu d'habitation";EXEM
+187414;3.356752;43.616978;"43°37'1.121""N 3°21'24.307""E";34175;Impasse Pioch Rascas Haut;"";34800;MOUREZE;18/01/2024;En extérieur;RPUB_160464.pdf;Oui;0.41;"Lieu d'habitation";EXEM
+187418;3.35583;43.617305;"43°37'2.298""N 3°21'20.988""E";34175;Impasse Pioch Rascas Haut;"";34800;MOUREZE;18/01/2024;En intérieur;RPUB_160465.pdf;Oui;0.4;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+187419;3.352933;43.616675;"43°37'0.030""N 3°21'10.559""E";34175;Impasse des Joncas;"";34800;MOUREZE;18/01/2024;En extérieur;RPUB_160467.pdf;Oui;0.33;"Lieu d'habitation";EXEM
+187424;3.351345;43.616334;"43°36'58.802""N 3°21'4.842""E";34175;Route de la Dolomie;"";34800;MOUREZE;19/01/2024;En extérieur;RPUB_160477.pdf;Oui;0.41;"Lieu d'habitation";EXEM
+187425;3.351066;43.616574;"43°36'59.666""N 3°21'3.838""E";34175;Route de la Dolomie;"";34800;MOUREZE;19/01/2024;En extérieur;RPUB_160478.pdf;Oui;0.43;"Lieu d'habitation";EXEM
+187427;3.235345;43.337001;"43°20'13.204""N 3°14'7.242""E";34032;Boulevard Maréchal de Lattre de Tassiny;"";34500;BEZIERS;19/01/2024;En intérieur;RPUB_160480.pdf;Oui;0.27;"Lieu d'habitation";EXEM
+187428;3.235323;43.336985;"43°20'13.146""N 3°14'7.163""E";34032;Boulevard Marechal de Lattre de Tassiny;"";34500;BEZIERS;19/01/2024;En intérieur;RPUB_160481.pdf;Oui;0.36;"Lieu d'habitation";EXEM
+187434;3.350758;43.616659;"43°36'59.972""N 3°21'2.729""E";34175;Route de la Dolomie;"";34800;MOUREZE;19/01/2024;En extérieur;RPUB_160479.pdf;Oui;0.4;"Lieu d'habitation";EXEM
+187439;1.321878;43.514386;"43°30'51.790""N 1°19'18.761""E";31203;Rue Agnès Varda;"";31270;FROUZINS;24/01/2024;En intérieur;RPUB_160508.pdf;Oui;1.12;"Lieu d'habitation";EXEM
+187440;1.330937;43.52907;"43°31'44.652""N 1°19'51.373""E";31588;Boulevard des Ecoles;"";31270;VILLENEUVE TOLOSANE;23/01/2024;En intérieur;RPUB_160498.pdf;Oui;0.38;"Lieu d'habitation";EXEM
+187441;1.329989;43.529595;"43°31'46.542""N 1°19'47.960""E";31588;Boulevard des Ecoles;"";31270;VILLENEUVE TOLOSANE;24/01/2024;En intérieur;RPUB_160499.pdf;Oui;0.26;"Lieu d'habitation";EXEM
+187444;1.394384;43.565024;"43°33'54.086""N 1°23'39.782""E";31555;Passage Louis Pergaud;"";31100;TOULOUSE;22/01/2024;En intérieur;RPUB_160511.pdf;Oui;2.95;Divers;EXEM
+187445;1.409576;43.580165;"43°34'48.594""N 1°24'34.474""E";31555;Place du Morvan;"";31100;TOULOUSE;22/01/2024;En intérieur;RPUB_160513.pdf;Oui;0.29;Divers;EXEM
+187447;1.379879;43.663665;"43°39'49.194""N 1°22'47.564""E";31056;Rue des Chardonnerets;"";31700;BEAUZELLE;22/01/2024;En intérieur;RPUB_160507.pdf;Oui;1.0;Divers;EXEM
+187449;1.322505;43.5146;"43°30'52.560""N 1°19'21.018""E";31203;"Place De l'Hotel de ville";"";31270;FROUZINS;24/01/2024;En intérieur;RPUB_160488.pdf;Oui;1.0;"Lieu d'habitation";EXEM
+187451;1.397967;43.595863;"43°35'45.107""N 1°23'52.681""E";31555;Chemin de Beauregard;"";31300;TOULOUSE;22/01/2024;En intérieur;RPUB_160510.pdf;Oui;0.86;Divers;EXEM
+187454;1.32992;43.528406;"43°31'42.262""N 1°19'47.712""E";31588;Rue de Gascogne;"";31270;VILLENEUVE TOLOSANE;23/01/2024;En intérieur;RPUB_160501.pdf;Oui;0.25;"Lieu d'habitation";EXEM
+187455;1.331534;43.529245;"43°31'45.282""N 1°19'53.522""E";31588;Rue Jean Mermoz;"";31270;VILLENEUVE TOLOSANE;23/01/2024;En intérieur;RPUB_160502.pdf;Oui;0.39;"Lieu d'habitation";EXEM
+187458;1.328959;43.529945;"43°31'47.802""N 1°19'44.252""E";31588;Boulevard des Ecoles;"";31270;VILLENEUVE TOLOSANE;24/01/2024;En intérieur;RPUB_160497.pdf;Oui;0.26;"Lieu d'habitation";EXEM
+187459;1.331238;43.527827;"43°31'40.177""N 1°19'52.457""E";31588;"Rue d'Aquitaine";"";31270;VILLENEUVE TOLOSANE;23/01/2024;En intérieur;RPUB_160500.pdf;Oui;0.31;"Lieu d'habitation";EXEM
+187461;1.332669;43.526834;"43°31'36.602""N 1°19'57.608""E";31588;Rue de Picardie;"";31270;VILLENEUVE TOLOSANE;23/01/2024;En intérieur;RPUB_160509.pdf;Oui;0.31;"Lieu d'habitation";EXEM
+187463;1.337178;43.536968;"43°32'13.085""N 1°20'13.841""E";31157;Rue du Vivier;"";31270;CUGNAUX;23/01/2024;En intérieur;RPUB_160512.pdf;Oui;0.28;Divers;EXEM
+187464;1.378398;43.663735;"43°39'49.446""N 1°22'42.233""E";31056;Rue des Cigognes;"";31700;BEAUZELLE;22/01/2024;En intérieur;RPUB_160506.pdf;Oui;0.32;Divers;EXEM
+187466;1.47191;43.628201;"43°37'41.524""N 1°28'18.876""E";31555;Chemin de Nicol;"";31200;TOULOUSE;25/01/2024;En intérieur;RPUB_160529.pdf;Oui;0.61;Divers;EXEM
+187468;1.491866;43.576046;"43°34'33.766""N 1°29'30.718""E";31555;Impasse de Bitet;"";31400;TOULOUSE;25/01/2024;En intérieur;RPUB_160531.pdf;Oui;0.29;Divers;EXEM
+187470;1.459036;43.633412;"43°38'0.283""N 1°27'32.530""E";31555;Rue de la Maourine;"";31200;TOULOUSE;25/01/2024;En intérieur;RPUB_160532.pdf;Oui;0.4;Divers;EXEM
+187471;1.473119;43.585059;"43°35'6.212""N 1°28'23.228""E";31555;Place de la Pergola;"";31500;TOULOUSE;25/01/2024;En intérieur;RPUB_160533.pdf;Oui;1.11;Rue / Route / Parking;EXEM
+187474;1.483948;43.57516;"43°34'30.576""N 1°29'2.213""E";31555;Impasse Laurent Guerrero;"";31500;TOULOUSE;25/01/2024;En intérieur;RPUB_160534.pdf;Oui;0.52;Divers;EXEM
+187478;1.45865;43.601512;"43°36'5.443""N 1°27'31.140""E";31555;Avenue Camille Pujol;"";31500;TOULOUSE;25/01/2024;En intérieur;RPUB_160530.pdf;Oui;0.8;Divers;EXEM
+187491;1.474421;43.586445;"43°35'11.202""N 1°28'27.916""E";31555;Avenue Jean Rieux;"";31500;TOULOUSE;26/01/2024;En extérieur;RPUB_160553.pdf;Oui;3.44;"Lieu d'habitation";EXEM
+187494;1.923401;43.798211;"43°47'53.560""N 1°55'24.244""E";81215;Route de Sainte-Cécile;"";81390;PUYBEGON;26/01/2024;En intérieur;RPUB_160564.pdf;Oui;0.14;"Lieu d'habitation";EXEM
+187504;1.859307;43.699465;"43°41'58.074""N 1°51'33.505""E";81116;Avenue de Graulhet;"";81500;LABASTIDE SAINT GEORGES;26/01/2024;En intérieur;RPUB_160563.pdf;Oui;0.29;"Lieu d'habitation";EXEM
+187505;1.506307;43.595801;"43°35'44.884""N 1°30'22.705""E";31044;Allée Paul Gauguin;"";31130;BALMA;25/01/2024;En intérieur;RPUB_160552.pdf;Oui;0.31;Divers;EXEM
+187507;1.328828;43.529546;"43°31'46.366""N 1°19'43.781""E";31588;Boulevard des Ecoles;"";31270;VILLENEUVE TOLOSANE;26/01/2024;En intérieur;RPUB_160546.pdf;Oui;0.28;"Lieu d'habitation";EXEM
+187520;1.323011;43.51419;"43°30'51.084""N 1°19'22.840""E";31203;Rue De la République;"";31270;FROUZINS;29/01/2024;En intérieur;RPUB_160565.pdf;Oui;0.84;"Lieu d'habitation";EXEM
+187523;1.823387;43.696541;"43°41'47.548""N 1°49'24.193""E";81116;Rue des Remparts;"";81500;LABASTIDE SAINT GEORGES;29/01/2024;En extérieur;RPUB_160574.pdf;Oui;0.2;"Lieu d'habitation";EXEM
+187527;3.352053;43.616574;"43°36'59.666""N 3°21'7.391""E";34175;Impasse des Joncas;"";34800;MOUREZE;05/02/2024;En intérieur;RPUB_160578.pdf;Oui;0.43;"Lieu d'habitation";EXEM
+187548;0.63268;44.195442;"44°11'43.591""N 0°37'57.648""E";47001;Avenue Georges Cuvier;"";47000;AGEN;29/01/2024;En intérieur;RPUB_160596.pdf;Oui;0.54;Divers;EXEM
+187557;3.889589;43.593617;"43°35'37.021""N 3°53'22.520""E";34172;Avenue de Palavas;"";34000;MONTPELLIER;05/02/2024;En intérieur;RPUB_160593.pdf;Oui;0.18;"Lieu d'habitation";EXEM
+187558;3.350422;43.616543;"43°36'59.555""N 3°21'1.519""E";34175;Route de la Dolomie;"";34800;MOUREZE;05/02/2024;En extérieur;RPUB_160583.pdf;Oui;0.38;Divers;EXEM
+187588;3.87974;43.594379;"43°35'39.764""N 3°52'47.064""E";34172;Rue des Tulipes;"";34070;MONTPELLIER;08/02/2024;En intérieur;RPUB_160641.pdf;Oui;1.43;"Lieu d'habitation";EXEM
+187591;3.894181;43.602436;"43°36'8.770""N 3°53'39.052""E";34172;Chemin de Moularès;"";34070;MONTPELLIER;08/02/2024;En intérieur;RPUB_160644.pdf;Oui;0.5;"Lieu d'habitation";EXEM
+187597;2.993217;43.181749;"43°10'54.296""N 2°59'35.581""E";11262;Rue des Fours à Chaux;"";11100;NARBONNE;08/02/2024;En intérieur;RPUB_160646.pdf;Oui;0.22;"Lieu d'habitation";EXEM
+187613;1.464057;43.586479;"43°35'11.324""N 1°27'50.605""E";31555;Avenue de Saint Exupéry;"";31400;TOULOUSE;09/02/2024;En extérieur;RPUB_160661.pdf;Oui;0.64;"Lieu d'habitation";EXEM
+187648;3.881114;43.625662;"43°37'32.383""N 3°52'52.010""E";34172;Avenue de la Justice de Castelnau;"";34090;MONTPELLIER;05/02/2024;En intérieur;RPUB_160678.pdf;Oui;14.88;"Lieu d'habitation";EXEM
+187692;3.865514;43.6144;"43°36'51.840""N 3°51'55.850""E";34172;"Avenue d'Assas";"";34000;MONTPELLIER;19/02/2024;En extérieur;RPUB_160747.pdf;Oui;1.05;"Lieu d'habitation";EXEM
+187806;1.464091;43.586495;"43°35'11.382""N 1°27'50.728""E";31555;Avenue Saint-Exupéry;"";31400;TOULOUSE;29/02/2024;En intérieur;RPUB_160866.pdf;Oui;0.29;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+187807;1.348937;43.515459;"43°30'55.652""N 1°20'56.173""E";31458;Chemin des Carreaux;"";31120;ROQUES;29/02/2024;En extérieur;RPUB_160864.pdf;Oui;1.73;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+187816;1.327457;43.527214;"43°31'37.970""N 1°19'38.845""E";31588;Rue de Gascogne;"";31270;VILLENEUVE TOLOSANE;29/02/2024;En intérieur;RPUB_160855.pdf;Oui;0.31;"Lieu d'habitation";EXEM
+187818;1.322308;43.463066;"43°27'47.038""N 1°19'20.309""E";31395;Rue Claudio Monteverdi;"";31600;MURET;29/02/2024;En extérieur;RPUB_160865.pdf;Oui;0.87;"Lieu d'habitation";EXEM
+187825;1.378613;43.710525;"43°42'37.890""N 1°22'43.007""E";31293;Chemin de Beldou;"";31150;LESPINASSE;01/03/2024;En extérieur;RPUB_160881.pdf;Oui;1.05;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+187827;1.527336;43.643094;"43°38'35.138""N 1°31'38.410""E";31389;Allée des Rosiers;"";31850;MONTRABE;01/03/2024;En extérieur;RPUB_160886.pdf;Oui;0.28;"Lieu d'habitation";EXEM
+187831;1.391315;43.70809;"43°42'29.124""N 1°23'28.734""E";31293;Place du Boulodrome;"";31150;LESPINASSE;01/03/2024;En extérieur;RPUB_160880.pdf;Oui;0.83;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+187860;3.350165;43.616489;"43°36'59.360""N 3°21'0.594""E";34175;Route de la Dolomie;"";34800;MOUREZE;05/03/2024;En extérieur;RPUB_160905.pdf;Oui;0.39;"Lieu d'habitation";EXEM
+187861;1.845253;43.700753;"43°42'2.711""N 1°50'42.911""E";81116;Rue Victor Hugo;"";81500;LABASTIDE SAINT GEORGES;05/03/2024;En intérieur;RPUB_160928.pdf;Oui;0.24;"Lieu d'habitation";EXEM
+187878;3.604095;43.428559;"43°25'42.812""N 3°36'14.742""E";34157;Impasse Ferdinand Fabre;"";34140;MEZE;05/03/2024;En intérieur;RPUB_160923.pdf;Oui;0.24;"Lieu d'habitation";EXEM
+187880;2.315497;43.616365;"43°36'58.914""N 2°18'55.789""E";81042;Route du Lézert;"";81100;BURLATS;05/03/2024;En extérieur;RPUB_160929.pdf;Oui;0.34;"Lieu d'habitation";EXEM
+188025;0.511508;43.8742;"43°52'27.120""N 0°30'41.429""E";32417;"Route du Mas d'Auvignon";"";32500;SAUVETAT;14/03/2024;En intérieur;RPUB_161068.pdf;Oui;0.18;"Lieu d'habitation";EXEM
+188056;1.485965;43.583463;"43°35'0.467""N 1°29'9.474""E";31555;Impasse Eugène Trutât;"";31500;TOULOUSE;19/03/2024;En extérieur;RPUB_161153.pdf;Oui;1.7;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+188057;2.875903;43.957908;"43°57'28.469""N 2°52'33.251""E";12208;Avenue Dr Lucien Galtier;"";12400;SAINT AFFRIQUE;18/03/2024;En intérieur;RPUB_161107.pdf;Oui;0.95;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+188060;2.339101;43.216319;"43°12'58.748""N 2°20'20.764""E";11069;Avenue Pierre Semard;"";11000;CARCASSONNE;18/03/2024;En intérieur;RPUB_161159.pdf;Oui;0.31;"Lieu d'habitation";EXEM
+188086;2.339101;43.216319;"43°12'58.748""N 2°20'20.764""E";11069;Avenue Pierre Sémard;"";11000;CARCASSONNE;18/03/2024;En intérieur;RPUB_161158.pdf;Oui;0.97;"Lieu d'habitation";EXEM
+188097;1.485134;43.583999;"43°35'2.396""N 1°29'6.482""E";31555;Impasse Eugène Trutât;"";31500;TOULOUSE;19/03/2024;En extérieur;RPUB_161154.pdf;Oui;1.4;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+188137;1.235533;43.61854;"43°37'6.744""N 1°14'7.919""E";31088;"Avenue du Château d'eau";"";31490;BRAX;20/03/2024;En extérieur;RPUB_161207.pdf;Oui;0.55;Rue / Route / Parking;EXEM
+188138;1.328166;43.529556;"43°31'46.402""N 1°19'41.398""E";31588;Impasse des Pivoines;"";31270;VILLENEUVE TOLOSANE;20/03/2024;En intérieur;RPUB_161208.pdf;Oui;0.31;"Lieu d'habitation";EXEM
+188311;1.430755;43.589872;"43°35'23.539""N 1°25'50.718""E";31555;Rue Gaston Phoebus;"";31300;TOULOUSE;11/04/2024;En intérieur;RPUB_161359.pdf;Oui;0.4;"Lieu d'habitation";EXEM
+188320;1.462147;43.579;"43°34'44.400""N 1°27'43.729""E";31555;Rue Jeanne Marvig;"";31400;TOULOUSE;11/04/2024;En intérieur;RPUB_161371.pdf;Oui;0.4;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+188462;4.017627;43.640516;"43°38'25.858""N 4°1'3.457""E";34176;Rue des Arbousiers;"";34130;MUDAISON;23/04/2024;En intérieur;RPUB_161508.pdf;Oui;0.49;"Lieu d'habitation";EXEM
+188504;1.400864;43.741228;"43°44'28.421""N 1°24'3.110""E";31516;Chemin de Casselèbre;"";31790;SAINT SAUVEUR;29/04/2024;En intérieur;RPUB_161552.pdf;Oui;0.89;"Lieu d'habitation";EXEM
+188516;1.400929;43.741174;"43°44'28.226""N 1°24'3.344""E";31516;Chemin de Casselebre;"";31790;SAINT SAUVEUR;29/04/2024;En intérieur;RPUB_161566.pdf;Oui;0.02;"Lieu d'habitation";EXEM
+188520;0.044778;43.189822;"43°11'23.359""N 0°2'41.201""E";65331;Allée des Chênes;"";65310;ODOS;29/04/2024;En intérieur;RPUB_161570.pdf;Oui;0.37;"Lieu d'habitation";EXEM
+188529;1.222873;43.543641;"43°32'37.108""N 1°13'22.343""E";31187;Chemin Béouzo;"";31470;FONSORBES;30/04/2024;En extérieur;RPUB_161578.pdf;Oui;0.4;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+188533;1.316085;43.565751;"43°33'56.704""N 1°18'57.906""E";31424;Rue Jean Jacques Rousseau;"";31830;PLAISANCE DU TOUCH;30/04/2024;En extérieur;RPUB_161576.pdf;Oui;0.13;Rue / Route / Parking;EXEM
+188538;1.221328;43.54585;"43°32'45.060""N 1°13'16.781""E";31187;Campardou;"";31470;FONSORBES;30/04/2024;En extérieur;RPUB_161592.pdf;Oui;0.29;Rue / Route / Parking;EXEM
+188552;1.220126;43.545049;"43°32'42.176""N 1°13'12.454""E";31187;Rue de la Paix;"";31470;FONSORBES;03/05/2024;En intérieur;RPUB_161601.pdf;Oui;0.32;"Lieu d'habitation";EXEM
+188571;3.814616;43.689132;"43°41'20.875""N 3°48'52.618""E";34255;Rue de Bellevue;"";34980;SAINT GELY DU FESC;13/05/2024;En intérieur;RPUB_161623.pdf;Oui;0.32;"Lieu d'habitation";EXEM
+188572;2.153299;43.923515;"43°55'24.654""N 2°9'11.876""E";81004;Rue du Roc;"";81000;ALBI;10/05/2024;En extérieur;RPUB_161622.pdf;Oui;0.26;"Lieu d'habitation";EXEM
+188581;1.366618;43.708889;"43°42'32.000""N 1°21'59.825""E";31205;Rue de la Beauté;"";31150;GAGNAC SUR GARONNE;07/05/2024;En intérieur;RPUB_161613.pdf;Oui;0.36;"Lieu d'habitation";EXEM
+188602;1.480687;43.693058;"43°41'35.009""N 1°28'50.473""E";31497;Impasse de la Source;"";31140;SAINT LOUP CAMMAS;14/05/2024;En intérieur;RPUB_161644.pdf;Oui;0.18;"Lieu d'habitation";EXEM
+188605;1.321256;43.514409;"43°30'51.872""N 1°19'16.522""E";31203;Square Marguerite Duras;"";31270;FROUZINS;15/05/2024;En extérieur;RPUB_161649.pdf;Oui;1.11;"Lieu d'habitation";EXEM
+188666;3.604717;43.990661;"43°59'26.380""N 3°36'16.981""E";30350;Rue des Barris;"";30120;VIGAN;17/05/2024;En intérieur;RPUB_161713.pdf;Oui;0.2;"Lieu d'habitation";EXEM
+188710;2.961288;43.141125;"43°8'28.050""N 2°57'40.637""E";11262;Impasse des Lentisques;"";11100;NARBONNE;22/05/2024;En intérieur;RPUB_161771.pdf;Oui;0.35;"Lieu d'habitation";EXEM
+188714;3.776851;43.546954;"43°32'49.034""N 3°46'36.664""E";34095;Avenue Georges Clémenceau;"";34690;FABREGUES;22/05/2024;En extérieur;RPUB_161773.pdf;Oui;0.32;"Lieu d'habitation";EXEM
+188721;3.861179;43.616365;"43°36'58.914""N 3°51'40.244""E";34172;Rue Saint Pierre de Trivisy;"";34000;MONTPELLIER;23/05/2024;En intérieur;RPUB_161775.pdf;Oui;0.3;"Lieu d'habitation";EXEM
+188726;3.776808;43.547008;"43°32'49.229""N 3°46'36.509""E";34095;Avenue Georges Clemenceau;"";34690;FABREGUES;22/05/2024;En intérieur;RPUB_161774.pdf;Oui;0.13;"Lieu d'habitation";EXEM
+188759;1.277976;43.672186;"43°40'19.870""N 1°16'40.714""E";31351;Chemin de Bouconne;"";31700;MONDONVILLE;21/05/2024;En extérieur;RPUB_161801.pdf;Oui;0.75;"Lieu d'habitation";EXEM
+188818;1.018574;43.170389;"43°10'13.400""N 1°1'6.866""E";31367;La Serre;"";31220;MONTCLAR DE COMMINGES;30/05/2024;En intérieur;RPUB_161871.pdf;Oui;0.18;"Lieu d'habitation";EXEM
+188835;1.351769;43.48865;"43°29'19.140""N 1°21'6.368""E";31533;Chemin de Roquettes;"";31600;SAUBENS;31/05/2024;En extérieur;RPUB_161890.pdf;Oui;0.24;Rue / Route / Parking;EXEM
+188844;1.353679;43.478793;"43°28'43.655""N 1°21'13.244""E";31533;4 Rond-Point des Chasseurs;"";31600;SAUBENS;31/05/2024;En extérieur;RPUB_161892.pdf;Oui;0.22;Rue / Route / Parking;EXEM
+188848;1.350224;43.480647;"43°28'50.329""N 1°21'0.806""E";31533;Rue des Ecoles;"";31600;SAUBENS;31/05/2024;En intérieur;RPUB_161891.pdf;Oui;0.2;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+188861;1.43333;43.59392;"43°35'38.112""N 1°25'59.988""E";31555;Allée Charles de Fitte;"";31300;TOULOUSE;15/05/2024;En extérieur;RPUB_161902.pdf;Oui;1.33;"Lieu d'habitation";EXEM
+188881;2.221406;44.188374;"44°11'18.146""N 2°13'17.062""E";12278;Route de Creyssens;"";12440;TAYRAC;06/06/2024;En intérieur;RPUB_161916.pdf;Oui;0.2;"Lieu d'habitation";EXEM
+188972;3.839464;43.626275;"43°37'34.590""N 3°50'22.070""E";34172;Rue de la Goelette;"";34080;MONTPELLIER;12/06/2024;En intérieur;RPUB_162016.pdf;Oui;2.46;"Lieu d'habitation";EXEM
+189003;2.155702;44.190659;"44°11'26.372""N 2°9'20.527""E";12258;La Roque;"";12440;SALVETAT PEYRALES;17/06/2024;En extérieur;RPUB_162035.pdf;Oui;0.14;"Lieu d'habitation";EXEM
+189012;1.567569;43.401711;"43°24'6.160""N 1°34'3.248""E";31495;Rue de la République;"";31560;SAINT LEON;17/06/2024;En extérieur;RPUB_162041.pdf;Oui;0.58;"Lieu d'habitation";EXEM
+189019;1.567526;43.40168;"43°24'6.048""N 1°34'3.094""E";31495;Rue de la Republique;"";31560;SAINT LEON;17/06/2024;En intérieur;RPUB_162042.pdf;Oui;0.02;"Lieu d'habitation";EXEM
+189030;3.822749;43.623013;"43°37'22.847""N 3°49'21.896""E";34172;Rue Bernard Giraudeau;"";34000;MONTPELLIER;18/06/2024;En intérieur;RPUB_162091.pdf;Oui;0.31;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189039;3.22777;43.353066;"43°21'11.038""N 3°13'39.972""E";34032;Montée du Rouat;"";34500;BEZIERS;12/06/2024;En extérieur;RPUB_162076.pdf;Oui;6.56;Locaux professionnels non accessibles au public;EXEM
+189070;1.477833;43.692647;"43°41'33.529""N 1°28'40.199""E";31497;Chemin Gotis;"";31140;SAINT LOUP CAMMAS;19/06/2024;En intérieur;RPUB_162134.pdf;Oui;0.17;"Lieu d'habitation";EXEM
+189077;1.447148;43.638622;"43°38'19.039""N 1°26'49.733""E";31555;Rue Edmond Rostand;"";31200;TOULOUSE;19/06/2024;En intérieur;RPUB_162133.pdf;Oui;2.33;"Lieu d'habitation";EXEM
+189079;1.477115;43.712202;"43°42'43.927""N 1°28'37.614""E";31364;Impasse de Cendry;"";31140;MONTBERON;19/06/2024;En intérieur;RPUB_162127.pdf;Oui;0.16;"Lieu d'habitation";EXEM
+189089;1.478434;43.691917;"43°41'30.901""N 1°28'42.362""E";31497;Chemin Gotis;"";31140;SAINT LOUP CAMMAS;19/06/2024;En extérieur;RPUB_162135.pdf;Oui;0.23;Divers;EXEM
+189137;3.689927;43.449417;"43°26'57.901""N 3°41'23.737""E";34023;Rue des Palombes;"";34540;BALARUC LES BAINS;25/06/2024;En extérieur;RPUB_162188.pdf;Oui;2.91;"Lieu d'habitation";EXEM
+189229;1.920419;43.88464;"43°53'4.704""N 1°55'13.508""E";81038;Route des Stades;"";81600;BRENS;02/07/2024;En extérieur;RPUB_162283.pdf;Oui;0.2;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189238;1.456541;43.621274;"43°37'16.586""N 1°27'23.548""E";31555;Rue Mazas;"";31500;TOULOUSE;28/06/2024;En intérieur;RPUB_162280.pdf;Oui;0.91;"Lieu d'habitation";EXEM
+189239;1.913939;43.885707;"43°53'8.545""N 1°54'50.180""E";81038;Route de Cadalen;"";81600;BRENS;02/07/2024;En intérieur;RPUB_162282.pdf;Oui;0.36;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189410;3.809314;43.612336;"43°36'44.410""N 3°48'33.530""E";34123;Chemin de la Plaine;"";34990;JUVIGNAC;15/07/2024;En extérieur;RPUB_162456.pdf;Oui;0.7;Rue / Route / Parking;EXEM
+189413;3.830277;43.63569;"43°38'8.484""N 3°49'48.997""E";34172;Avenue de Fez;"";34000;MONTPELLIER;15/07/2024;En extérieur;RPUB_162451.pdf;Oui;0.66;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189414;3.822375;43.633895;"43°38'2.022""N 3°49'20.550""E";34172;"Avenue de l'Europe";"";34080;MONTPELLIER;15/07/2024;En extérieur;RPUB_162455.pdf;Oui;1.69;Rue / Route / Parking;EXEM
+189419;3.81835;43.642194;"43°38'31.898""N 3°49'6.060""E";34172;Place Jacques Brel;"";34000;MONTPELLIER;15/07/2024;En extérieur;RPUB_162452.pdf;Oui;0.93;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189420;3.88792;43.608966;"43°36'32.278""N 3°53'16.512""E";34172;"Boulevard d'Antigone";"";34000;MONTPELLIER;15/07/2024;En intérieur;RPUB_162454.pdf;Oui;0.54;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189427;3.896284;43.60688;"43°36'24.768""N 3°53'46.622""E";34172;Rue de Rhodes;"";34000;MONTPELLIER;15/07/2024;En intérieur;RPUB_162453.pdf;Oui;0.24;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189445;3.842318;43.621988;"43°37'19.157""N 3°50'32.345""E";34172;Rue des Avant Monts;"";34000;MONTPELLIER;16/07/2024;En intérieur;RPUB_162486.pdf;Oui;0.25;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189447;3.881749;43.618435;"43°37'6.366""N 3°52'54.296""E";34172;Rue Lunaret;"";34000;MONTPELLIER;16/07/2024;En extérieur;RPUB_162484.pdf;Oui;2.46;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189454;3.828409;43.611164;"43°36'40.190""N 3°49'42.272""E";34172;Rue de Grèzes;"";34070;MONTPELLIER;16/07/2024;En extérieur;RPUB_162497.pdf;Oui;2.36;Rue / Route / Parking;EXEM
+189456;3.828564;43.617048;"43°37'1.373""N 3°49'42.830""E";34172;Rue Jeanne de Charrin;"";34000;MONTPELLIER;16/07/2024;En intérieur;RPUB_162489.pdf;Oui;0.24;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189461;3.890748;43.607781;"43°36'28.012""N 3°53'26.693""E";34172;Place Zeus;"";34000;MONTPELLIER;15/07/2024;En extérieur;RPUB_162491.pdf;Oui;1.45;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189463;3.837992;43.615424;"43°36'55.526""N 3°50'16.771""E";34172;Rue Dante Alighieri;"";34080;MONTPELLIER;16/07/2024;En extérieur;RPUB_162496.pdf;Oui;1.85;Rue / Route / Parking;EXEM
+189476;3.884525;43.607175;"43°36'25.830""N 3°53'4.290""E";34172;"Rue Jeanne d'Arc";"";34000;MONTPELLIER;16/07/2024;En extérieur;RPUB_162485.pdf;Oui;0.61;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189478;3.87856;43.617367;"43°37'2.521""N 3°52'42.816""E";34172;Rue Ferdinand Fabre;"";34000;MONTPELLIER;16/07/2024;En extérieur;RPUB_162487.pdf;Oui;0.56;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189479;3.849571;43.601512;"43°36'5.443""N 3°50'58.456""E";34172;Rue Père Cyprien Rome;"";34000;MONTPELLIER;16/07/2024;En intérieur;RPUB_162483.pdf;Oui;0.23;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189480;0.070402;43.23489;"43°14'5.604""N 0°4'13.447""E";65440;Rue Georges Lassalle;"";65000;TARBES;16/07/2024;En intérieur;RPUB_162492.pdf;Oui;0.21;"Lieu d'habitation";EXEM
+189484;3.878753;43.610484;"43°36'37.742""N 3°52'43.511""E";34172;"Rue Embouque d'or";"";34000;MONTPELLIER;16/07/2024;En extérieur;RPUB_162488.pdf;Oui;0.24;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189486;3.835194;43.609141;"43°36'32.908""N 3°50'6.698""E";34172;Rue Gustave Eiffel;"";34000;MONTPELLIER;16/07/2024;En intérieur;RPUB_162490.pdf;Oui;0.33;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189497;3.862445;43.619052;"43°37'8.587""N 3°51'44.802""E";34172;Rue Eugène Labiche;"";34000;MONTPELLIER;17/07/2024;En extérieur;RPUB_162539.pdf;Oui;2.12;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189499;3.870342;43.596438;"43°35'47.177""N 3°52'13.231""E";34172;Place Cardinal Verdier;"";34000;MONTPELLIER;17/07/2024;En extérieur;RPUB_162538.pdf;Oui;1.28;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189501;3.876243;43.625172;"43°37'30.619""N 3°52'34.475""E";34172;Rue Emile Littré;"";34000;MONTPELLIER;17/07/2024;En intérieur;RPUB_162536.pdf;Oui;0.18;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189503;3.846382;43.644399;"43°38'39.836""N 3°50'46.975""E";34172;Impasse de la Blanquette;"";34090;MONTPELLIER;17/07/2024;En extérieur;RPUB_162544.pdf;Oui;1.75;Rue / Route / Parking;EXEM
+189508;3.880784;43.603454;"43°36'12.434""N 3°52'50.822""E";34172;Rue Général Riu;"";34000;MONTPELLIER;17/07/2024;En intérieur;RPUB_162535.pdf;Oui;0.86;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189509;3.864269;43.588916;"43°35'20.098""N 3°51'51.368""E";34172;Rue Fernandel;"";34070;MONTPELLIER;17/07/2024;En intérieur;RPUB_162540.pdf;Oui;0.24;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189510;3.870121;43.644666;"43°38'40.798""N 3°52'12.436""E";34172;Rue Jean François Breton;"";34000;MONTPELLIER;17/07/2024;En intérieur;RPUB_162537.pdf;Oui;0.21;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189513;3.851674;43.590144;"43°35'24.518""N 3°51'6.026""E";34172;Avenue Jean Prat;"";34000;MONTPELLIER;17/07/2024;En extérieur;RPUB_162541.pdf;Oui;2.11;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189519;3.904496;43.603006;"43°36'10.822""N 3°54'16.186""E";34172;Avenue du Mondial 98;"";34000;MONTPELLIER;18/07/2024;En extérieur;RPUB_162576.pdf;Oui;1.84;Rue / Route / Parking;EXEM
+189521;3.870007;43.596405;"43°35'47.058""N 3°52'12.025""E";34172;Place Cardinal Verdier;"";34000;MONTPELLIER;17/07/2024;En extérieur;RPUB_162553.pdf;Oui;1.44;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189523;3.903494;43.595591;"43°35'44.128""N 3°54'12.578""E";34172;Rue Claude Lévi-Strauss;"";34000;MONTPELLIER;18/07/2024;En intérieur;RPUB_162560.pdf;Oui;0.22;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189524;3.888034;43.595611;"43°35'44.200""N 3°53'16.922""E";34172;Avenue de Palavas;"";34000;MONTPELLIER;18/07/2024;En extérieur;RPUB_162577.pdf;Oui;1.25;Rue / Route / Parking;EXEM
+189525;3.881221;43.608504;"43°36'30.614""N 3°52'52.396""E";34172;Rue Baudin;"";34000;MONTPELLIER;19/07/2024;En intérieur;RPUB_162564.pdf;Oui;4.43;"Lieu d'habitation";EXEM
+189527;3.915526;43.601885;"43°36'6.786""N 3°54'55.894""E";34172;Boulevard Pénélope;"";34000;MONTPELLIER;18/07/2024;En extérieur;RPUB_162554.pdf;Oui;1.38;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189528;3.915533;43.601959;"43°36'7.052""N 3°54'55.919""E";34172;Boulevard Pénélope;"";34000;MONTPELLIER;18/07/2024;En extérieur;RPUB_162559.pdf;Oui;3.64;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189531;3.91034;43.611353;"43°36'40.871""N 3°54'37.224""E";34172;Rue Guiglielmo Marconi;"";34000;MONTPELLIER;18/07/2024;En extérieur;RPUB_162578.pdf;Oui;1.77;Rue / Route / Parking;EXEM
+189532;3.879526;43.627409;"43°37'38.672""N 3°52'46.294""E";34172;Rue des Tourterelles;"";34000;MONTPELLIER;17/07/2024;En extérieur;RPUB_162556.pdf;Oui;1.01;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189533;3.915709;43.601852;"43°36'6.667""N 3°54'56.552""E";34172;Boulevard Pénélope;"";34000;MONTPELLIER;18/07/2024;En intérieur;RPUB_162558.pdf;Oui;2.77;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189534;3.884568;43.59542;"43°35'43.512""N 3°53'4.445""E";34172;Rue des Razeteurs;"";34000;MONTPELLIER;18/07/2024;En intérieur;RPUB_162557.pdf;Oui;0.25;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189535;3.895815;43.599265;"43°35'57.354""N 3°53'44.934""E";34172;Place Georges Frêche;"";34000;MONTPELLIER;18/07/2024;En extérieur;RPUB_162555.pdf;Oui;0.38;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189540;3.877829;43.596824;"43°35'48.566""N 3°52'40.184""E";34172;Avenue Albert Dubout;"";34000;MONTPELLIER;18/07/2024;En extérieur;RPUB_162575.pdf;Oui;1.28;Rue / Route / Parking;EXEM
+189543;3.895726;43.592996;"43°35'34.786""N 3°53'44.614""E";34172;Rue de Saint-Hilaire;"";34000;MONTPELLIER;18/07/2024;En extérieur;RPUB_162582.pdf;Oui;1.58;Rue / Route / Parking;EXEM
+189544;3.816998;43.628768;"43°37'43.565""N 3°49'1.193""E";34172;Rue de Tipasa;"";34000;MONTPELLIER;19/07/2024;En extérieur;RPUB_162579.pdf;Oui;0.61;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189552;3.873983;43.626819;"43°37'36.548""N 3°52'26.339""E";34172;Avenue de la Justice de Castelnau;"";34090;MONTPELLIER;17/07/2024;En extérieur;RPUB_162586.pdf;Oui;2.29;Rue / Route / Parking;EXEM
+189557;3.833971;43.620885;"43°37'15.186""N 3°50'2.296""E";34172;Avenue des Moulins;"";34080;MONTPELLIER;19/07/2024;En extérieur;RPUB_162584.pdf;Oui;1.3;Rue / Route / Parking;EXEM
+189559;3.898236;43.611949;"43°36'43.016""N 3°53'53.650""E";34172;Avenue de la Pompignane;"";34000;MONTPELLIER;18/07/2024;En extérieur;RPUB_162583.pdf;Oui;0.92;Rue / Route / Parking;EXEM
+189563;3.833971;43.62087;"43°37'15.132""N 3°50'2.296""E";34172;Avenue des moulins;"";34080;MONTPELLIER;19/07/2024;En extérieur;RPUB_162585.pdf;Oui;1.21;Rue / Route / Parking;EXEM
+189597;3.846095;43.616683;"43°37'0.059""N 3°50'45.942""E";34172;Avenue Saint-Clément;"";34000;MONTPELLIER;25/07/2024;En intérieur;RPUB_162627.pdf;Oui;0.2;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189601;3.884605;43.594852;"43°35'41.467""N 3°53'4.578""E";34172;Avenue Maréchal Leclerc;"";34000;MONTPELLIER;25/07/2024;En intérieur;RPUB_162637.pdf;Oui;0.25;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189602;3.879498;43.626528;"43°37'35.501""N 3°52'46.193""E";34172;Rue des Tourterelles;"";34000;MONTPELLIER;26/07/2024;En intérieur;RPUB_162638.pdf;Oui;0.21;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189603;3.819659;43.628085;"43°37'41.106""N 3°49'10.772""E";34172;Rue de Lausanne;"";34000;MONTPELLIER;26/07/2024;En extérieur;RPUB_162639.pdf;Oui;0.4;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189605;3.879695;43.614183;"43°36'51.059""N 3°52'46.902""E";34172;Impasse de la Petite Corraterie;"";34000;MONTPELLIER;25/07/2024;En intérieur;RPUB_162636.pdf;Oui;0.26;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189638;3.905532;43.599111;"43°35'56.800""N 3°54'19.915""E";34172;Allée Jay Dee;"";34000;MONTPELLIER;29/07/2024;En intérieur;RPUB_162650.pdf;Oui;0.32;"Lieu d'habitation";EXEM
+189652;3.905511;43.599126;"43°35'56.854""N 3°54'19.840""E";34172;Allée Jay Dee;"";34000;MONTPELLIER;29/07/2024;En intérieur;RPUB_162651.pdf;Oui;0.05;"Lieu d'habitation";EXEM
+189668;3.868904;43.601185;"43°36'4.266""N 3°52'8.054""E";34172;Boulevard Berthelot;"";34000;MONTPELLIER;30/07/2024;En extérieur;RPUB_162773.pdf;Oui;1.09;"Lieu d'habitation";EXEM
+189682;3.791908;43.60733;"43°36'26.388""N 3°47'30.869""E";34259;Chemin des Cabrides;"";34680;SAINT GEORGES D ORQUES;26/07/2024;En extérieur;RPUB_162720.pdf;Oui;2.95;Rue / Route / Parking;EXEM
+189700;3.886607;43.609055;"43°36'32.598""N 3°53'11.785""E";34172;Rue des Pertuisanes;"";34000;MONTPELLIER;26/07/2024;En extérieur;RPUB_162716.pdf;Oui;1.41;Rue / Route / Parking;EXEM
+189708;3.8859;43.60949;"43°36'34.164""N 3°53'9.240""E";34172;"Boulevard d'Antigone";"";34000;MONTPELLIER;29/07/2024;En extérieur;RPUB_162718.pdf;Oui;2.71;Rue / Route / Parking;EXEM
+189720;3.870325;43.606117;"43°36'22.021""N 3°52'13.170""E";34172;Rue Toiras;"";34000;MONTPELLIER;30/07/2024;En extérieur;RPUB_162717.pdf;Oui;2.05;Rue / Route / Parking;EXEM
+189722;3.886384;43.610442;"43°36'37.591""N 3°53'10.982""E";34172;Allée Henri II de Montmorency;"";34000;MONTPELLIER;26/07/2024;En extérieur;RPUB_162715.pdf;Oui;2.55;Rue / Route / Parking;EXEM
+189723;3.862363;43.624198;"43°37'27.113""N 3°51'44.507""E";34172;"Avenue Frédéric Sabatier d'Espeyran";"";34090;MONTPELLIER;24/07/2024;En extérieur;RPUB_162719.pdf;Oui;1.83;Rue / Route / Parking;EXEM
+189794;3.878969;43.603704;"43°36'13.334""N 3°52'44.288""E";34172;Rue du Grand Saint-jean;"";34000;MONTPELLIER;25/07/2024;En extérieur;RPUB_162795.pdf;Oui;2.22;Rue / Route / Parking;EXEM
+189826;3.880781;43.605013;"43°36'18.047""N 3°52'50.812""E";34172;Rue Jules Ferry;"";34000;MONTPELLIER;25/07/2024;En extérieur;RPUB_162794.pdf;Oui;2.2;Rue / Route / Parking;EXEM
+189868;3.88062;43.609234;"43°36'33.242""N 3°52'50.232""E";34172;Place de la Comédie;"";34000;MONTPELLIER;25/07/2024;En extérieur;RPUB_162892.pdf;Oui;2.42;Rue / Route / Parking;EXEM
+189889;3.871978;43.582239;"43°34'56.060""N 3°52'19.121""E";34172;Avenue de Maurin;"";34070;MONTPELLIER;06/08/2024;En extérieur;RPUB_162917.pdf;Oui;2.14;Rue / Route / Parking;EXEM
+189900;3.903408;43.595715;"43°35'44.574""N 3°54'12.269""E";34172;Rue Claude Lévi-Strauss;"";34000;MONTPELLIER;06/08/2024;En intérieur;RPUB_162906.pdf;Oui;0.25;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189905;2.247562;43.178714;"43°10'43.370""N 2°14'51.223""E";11005;Chemin du Pech Vert;"";11290;ALAIRAC;07/08/2024;En extérieur;RPUB_162960.pdf;Oui;0.28;"Lieu d'habitation";EXEM
+189919;2.238034;43.171377;"43°10'16.957""N 2°14'16.922""E";11005;Route de Cailhau;"";11290;ALAIRAC;07/08/2024;En intérieur;RPUB_162961.pdf;Oui;0.16;"Lieu d'habitation";EXEM
+189920;3.858111;43.611813;"43°36'42.527""N 3°51'29.200""E";34172;Rue Boussinesq;"";34000;MONTPELLIER;07/08/2024;En intérieur;RPUB_162933.pdf;Oui;0.36;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189924;3.864109;43.588965;"43°35'20.274""N 3°51'50.792""E";34172;Rue Louis Aragon;"";34070;MONTPELLIER;07/08/2024;En intérieur;RPUB_162932.pdf;Oui;0.25;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+189928;2.2474;43.177367;"43°10'38.521""N 2°14'50.640""E";11005;Allée des Genêts;"";11290;ALAIRAC;07/08/2024;En intérieur;RPUB_162959.pdf;Oui;0.14;"Lieu d'habitation";EXEM
+189937;1.371102;43.472512;"43°28'21.043""N 1°22'15.967""E";31533;Le Tartibau;"";31600;SAUBENS;08/08/2024;En extérieur;RPUB_162977.pdf;Oui;1.6;Divers;EXEM
+189938;1.393079;43.539185;"43°32'21.066""N 1°23'35.084""E";31433;Chemin de la Saudrune;"";31120;PORTET SUR GARONNE;08/08/2024;En extérieur;RPUB_162962.pdf;Oui;0.76;Rue / Route / Parking;EXEM
+189945;1.063151;43.126949;"43°7'37.016""N 1°3'47.344""E";09094;Montaigon;"";09230;CERIZOLS;08/08/2024;En intérieur;RPUB_162974.pdf;Oui;0.18;"Lieu d'habitation";EXEM
+189946;1.063151;43.126949;"43°7'37.016""N 1°3'47.344""E";09094;Montaigon;"";09230;CERIZOLS;08/08/2024;En intérieur;RPUB_162975.pdf;Oui;0.05;"Lieu d'habitation";EXEM
+189956;1.478133;43.613071;"43°36'47.056""N 1°28'41.279""E";31555;"Avenue de l'Hers";"";31000;TOULOUSE;09/08/2024;En extérieur;RPUB_162982.pdf;Oui;0.18;Rue / Route / Parking;EXEM
+189962;1.091123;43.606593;"43°36'23.735""N 1°5'28.043""E";32160;Rue de Gascogne;"";32600;ISLE JOURDAIN;09/08/2024;En intérieur;RPUB_162997.pdf;Oui;0.36;"Lieu d'habitation";EXEM
+189965;1.091037;43.606313;"43°36'22.727""N 1°5'27.733""E";32160;Rue de Gascogne;"";32600;ISLE JOURDAIN;09/08/2024;En intérieur;RPUB_162992.pdf;Oui;0.31;"Lieu d'habitation";EXEM
+189967;1.443071;43.584051;"43°35'2.584""N 1°26'35.056""E";31555;Avenue Jean Moulin;"";31400;TOULOUSE;09/08/2024;En extérieur;RPUB_162983.pdf;Oui;1.62;Rue / Route / Parking;EXEM
+189969;2.137759;43.957983;"43°57'28.739""N 2°8'15.932""E";81004;Chemin de Balard;"";81000;ALBI;12/08/2024;En extérieur;RPUB_163013.pdf;Oui;0.98;Rue / Route / Parking;EXEM
+189970;2.163049;43.917442;"43°55'2.791""N 2°9'46.976""E";81004;Rue Gustave Eiffel;"";81000;ALBI;12/08/2024;En extérieur;RPUB_163012.pdf;Oui;1.4;Rue / Route / Parking;EXEM
+189971;1.492197;43.628971;"43°37'44.296""N 1°29'31.909""E";31044;Avenue Georges Pompidou;"";31130;BALMA;12/08/2024;En extérieur;RPUB_162998.pdf;Oui;2.12;Rue / Route / Parking;EXEM
+189978;1.491201;43.627991;"43°37'40.768""N 1°29'28.324""E";31044;Avenue Georges Pompidou;"";31130;BALMA;12/08/2024;En extérieur;RPUB_162999.pdf;Oui;4.68;Rue / Route / Parking;EXEM
+189984;1.506033;43.596659;"43°35'47.972""N 1°30'21.719""E";31044;Allée Paul Gauguin;"";31130;BALMA;12/08/2024;En extérieur;RPUB_163000.pdf;Oui;0.92;Rue / Route / Parking;EXEM
+189986;1.445575;43.600339;"43°36'1.220""N 1°26'44.070""E";31555;Rue Alsace Lorraine;"";31000;TOULOUSE;13/08/2024;En extérieur;RPUB_163015.pdf;Oui;1.39;Rue / Route / Parking;EXEM
+189989;1.457363;43.606632;"43°36'23.875""N 1°27'26.507""E";31555;Avenue du cimetière;"";31500;TOULOUSE;13/08/2024;En extérieur;RPUB_163019.pdf;Oui;2.09;Rue / Route / Parking;EXEM
+189995;1.430587;43.619249;"43°37'9.296""N 1°25'50.113""E";31555;Rue Alphonse Daudet;"";31200;TOULOUSE;13/08/2024;En extérieur;RPUB_163017.pdf;Oui;1.77;Rue / Route / Parking;EXEM
+189998;1.458233;43.621129;"43°37'16.064""N 1°27'29.639""E";31555;Avenue de Lavaur;"";31500;TOULOUSE;13/08/2024;En extérieur;RPUB_163020.pdf;Oui;1.04;Rue / Route / Parking;EXEM
+189999;1.344496;43.619305;"43°37'9.498""N 1°20'40.186""E";31149;Avenue Georges Guynemer;"";31770;COLOMIERS;14/08/2024;En extérieur;RPUB_163022.pdf;Oui;0.58;Rue / Route / Parking;EXEM
+190004;1.454065;43.60962;"43°36'34.632""N 1°27'14.634""E";31555;Boulevard Pierre Semard;"";31000;TOULOUSE;13/08/2024;En extérieur;RPUB_163014.pdf;Oui;1.11;Rue / Route / Parking;EXEM
+190007;1.436503;43.647005;"43°38'49.218""N 1°26'11.411""E";31555;Chemin du Baron;"";31200;TOULOUSE;13/08/2024;En extérieur;RPUB_163016.pdf;Oui;0.95;Rue / Route / Parking;EXEM
+190009;1.334107;43.613371;"43°36'48.136""N 1°20'2.785""E";31149;Allée du Poitou;"";31770;COLOMIERS;14/08/2024;En extérieur;RPUB_163021.pdf;Oui;0.77;Rue / Route / Parking;EXEM
+190014;1.467947;43.606156;"43°36'22.162""N 1°28'4.609""E";31555;Rue François;"";31500;TOULOUSE;13/08/2024;En extérieur;RPUB_163018.pdf;Oui;4.01;Rue / Route / Parking;EXEM
+190154;3.918887;43.601388;"43°36'4.997""N 3°55'7.993""E";34172;Boulevard Pénélope;"";34000;MONTPELLIER;02/09/2024;En extérieur;RPUB_163178.pdf;Oui;4.07;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+190179;3.913808;43.634567;"43°38'4.441""N 3°54'49.709""E";34057;Avenue des Centurions;"";34170;CASTELNAU LE LEZ;02/09/2024;En intérieur;RPUB_163230.pdf;Oui;0.28;"Lieu d'habitation";EXEM
+190184;3.92795;43.698753;"43°41'55.511""N 3°55'40.620""E";34014;Devès de Péret;"";34820;ASSAS;23/08/2024;En extérieur;RPUB_163204.pdf;Oui;2.4;Rue / Route / Parking;EXEM
+190188;3.855401;43.622085;"43°37'19.506""N 3°51'19.444""E";34172;Avenue du Père Soulas;"";34090;MONTPELLIER;23/08/2024;En extérieur;RPUB_163202.pdf;Oui;1.21;Rue / Route / Parking;EXEM
+190189;3.915403;43.643117;"43°38'35.221""N 3°54'55.451""E";34057;Avenue André Ampère;"";34170;CASTELNAU LE LEZ;23/08/2024;En extérieur;RPUB_163203.pdf;Oui;0.58;Rue / Route / Parking;EXEM
+190209;3.850165;43.622798;"43°37'22.073""N 3°51'0.594""E";34172;Rue du Fesquet;"";34090;MONTPELLIER;23/08/2024;En extérieur;RPUB_163235.pdf;Oui;1.88;Rue / Route / Parking;EXEM
+190343;1.386337;43.563072;"43°33'47.059""N 1°23'10.813""E";31555;Chemin de Basso Cambo;"";31100;TOULOUSE;12/09/2024;En extérieur;RPUB_163376.pdf;Oui;2.9;Rue / Route / Parking;EXEM
+190349;1.41981;43.55694;"43°33'24.984""N 1°25'11.316""E";31555;Chemin des Silos;"";31100;TOULOUSE;12/09/2024;En extérieur;RPUB_163377.pdf;Oui;1.15;Rue / Route / Parking;EXEM
+190353;1.371527;43.552645;"43°33'9.522""N 1°22'17.497""E";31157;Rue Aristide Berges;"";31270;CUGNAUX;12/09/2024;En extérieur;RPUB_163379.pdf;Oui;1.48;Rue / Route / Parking;EXEM
+190362;1.465878;43.573243;"43°34'23.675""N 1°27'57.161""E";31555;Allée des Sciences Appliquées;"";31400;TOULOUSE;12/09/2024;En extérieur;RPUB_163378.pdf;Oui;1.19;Rue / Route / Parking;EXEM
+190369;1.385973;43.570247;"43°34'12.889""N 1°23'9.503""E";31555;Rue Paul Mesplé;"";31100;TOULOUSE;12/09/2024;En extérieur;RPUB_163375.pdf;Oui;2.16;Rue / Route / Parking;EXEM
+190448;1.42002;43.618082;"43°37'5.095""N 1°25'12.072""E";31555;Rue Ferdinand Lassalle;"";31200;TOULOUSE;13/09/2024;En extérieur;RPUB_163500.pdf;Oui;1.14;Rue / Route / Parking;EXEM
+190453;3.847897;43.572059;"43°34'19.412""N 3°50'52.429""E";34270;Route de Sète;"";34430;SAINT JEAN DE VEDAS;06/09/2024;En extérieur;RPUB_163506.pdf;Oui;1.57;Rue / Route / Parking;EXEM
+190468;3.905598;43.57168;"43°34'18.048""N 3°54'20.153""E";34129;"Avenue de  L'Agau";"";34970;LATTES;02/09/2024;En extérieur;RPUB_163507.pdf;Oui;2.35;Rue / Route / Parking;EXEM
+190475;1.448484;43.561666;"43°33'41.998""N 1°26'54.542""E";31555;Chemin des Oliviers;"";31400;TOULOUSE;12/09/2024;En extérieur;RPUB_163501.pdf;Oui;5.1;Rue / Route / Parking;EXEM
+190490;1.392024;43.708105;"43°42'29.178""N 1°23'31.286""E";31293;Place du Boulodrome;"";31150;LESPINASSE;13/09/2024;En extérieur;RPUB_163499.pdf;Oui;1.07;Rue / Route / Parking;EXEM
+190499;3.866935;43.608906;"43°36'32.062""N 3°52'0.966""E";34172;Rue Guillaume Pellicier;"";34070;MONTPELLIER;02/09/2024;En extérieur;RPUB_163505.pdf;Oui;2.63;Rue / Route / Parking;EXEM
+190512;1.391938;43.708051;"43°42'28.984""N 1°23'30.977""E";31293;Route de Paris;"";31150;LESPINASSE;13/09/2024;En extérieur;RPUB_163498.pdf;Oui;1.16;Rue / Route / Parking;EXEM
+190587;0.147522;43.064663;"43°3'52.787""N 0°8'51.079""E";65059;Boulevard Carnot;"";65200;BAGNERES DE BIGORRE;20/09/2024;En intérieur;RPUB_163623.pdf;Oui;1.47;"Lieu d'habitation";EXEM
+190606;1.394871;43.578752;"43°34'43.507""N 1°23'41.536""E";31555;Impasse du Mirailhon;"";31100;TOULOUSE;20/09/2024;En extérieur;RPUB_163636.pdf;Oui;0.41;Rue / Route / Parking;EXEM
+190613;1.39786;43.58894;"43°35'20.184""N 1°23'52.296""E";31555;Rue Jean Doujat;"";31100;TOULOUSE;20/09/2024;En extérieur;RPUB_163637.pdf;Oui;1.74;Rue / Route / Parking;EXEM
+190614;1.220028;43.504889;"43°30'17.600""N 1°13'12.101""E";31499;Chemin de Crabille;"";31470;SAINT LYS;13/03/2024;En intérieur;RPUB_163671.pdf;Oui;0.0;"Lieu d'habitation";ANFR_RAMBOUILLET
+190675;1.622479;43.366397;"43°21'59.029""N 1°37'20.924""E";31396;Avenue de Cocagne;"";31560;NAILLOUX;25/09/2024;En extérieur;RPUB_163693.pdf;Oui;0.27;Rue / Route / Parking;EXEM
+190681;1.255293;43.283129;"43°16'59.264""N 1°15'19.055""E";31107;1156 Cabaré;"";31390;CARBONNE;25/09/2024;En intérieur;RPUB_163729.pdf;Oui;0.12;"Lieu d'habitation";EXEM
+190685;1.256905;43.284461;"43°17'4.060""N 1°15'24.858""E";31107;1154 Mourille;"";31390;CARBONNE;25/09/2024;En intérieur;RPUB_163728.pdf;Oui;0.15;"Lieu d'habitation";EXEM
+190707;1.090887;43.606725;"43°36'24.210""N 1°5'27.193""E";32160;Rue de Gascogne;"";32600;ISLE JOURDAIN;26/09/2024;En intérieur;RPUB_163754.pdf;Oui;0.26;"Lieu d'habitation";EXEM
+190717;1.091305;43.606486;"43°36'23.350""N 1°5'28.698""E";32160;Rue de Gascogne;"";32600;ISLE JOURDAIN;27/09/2024;En intérieur;RPUB_163748.pdf;Oui;0.36;"Lieu d'habitation";EXEM
+190723;1.089792;43.607253;"43°36'26.111""N 1°5'23.251""E";32160;Impasse Léonce;"";32600;ISLE JOURDAIN;26/09/2024;En intérieur;RPUB_163750.pdf;Oui;0.51;"Lieu d'habitation";EXEM
+190728;1.08902;43.606826;"43°36'24.574""N 1°5'20.472""E";32160;Rue de Gascogne;"";32600;ISLE JOURDAIN;26/09/2024;En extérieur;RPUB_163749.pdf;Oui;0.31;"Lieu d'habitation";EXEM
+190730;1.090629;43.606787;"43°36'24.433""N 1°5'26.264""E";32160;Rue de Gascogne;"";32600;ISLE JOURDAIN;26/09/2024;En extérieur;RPUB_163753.pdf;Oui;0.3;"Lieu d'habitation";EXEM
+190732;1.629936;43.345453;"43°20'43.631""N 1°37'47.770""E";31396;Laborie;"";31560;NAILLOUX;27/09/2024;En extérieur;RPUB_163756.pdf;Oui;1.21;Rue / Route / Parking;EXEM
+190734;1.090372;43.606826;"43°36'24.574""N 1°5'25.339""E";32160;Impasse Léonce;"";32600;ISLE JOURDAIN;26/09/2024;En extérieur;RPUB_163758.pdf;Oui;0.37;"Lieu d'habitation";EXEM
+190735;1.089814;43.606973;"43°36'25.103""N 1°5'23.330""E";32160;Impasse Léonce;"";32600;ISLE JOURDAIN;26/09/2024;En intérieur;RPUB_163752.pdf;Oui;0.52;"Lieu d'habitation";EXEM
+190736;0.536122;43.658962;"43°39'32.263""N 0°32'10.039""E";32013;Route de Vic;"";32000;AUCH;26/09/2024;En extérieur;RPUB_163741.pdf;Oui;1.1;Rue / Route / Parking;EXEM
+190737;1.089771;43.607183;"43°36'25.859""N 1°5'23.176""E";32160;Impasse Léonce;"";32600;ISLE JOURDAIN;26/09/2024;En intérieur;RPUB_163751.pdf;Oui;0.32;"Lieu d'habitation";EXEM
+190740;3.207686;43.443673;"43°26'37.223""N 3°12'27.670""E";34223;"Rue du Château d'Eau";"";34480;PUIMISSON;30/09/2024;En extérieur;RPUB_163769.pdf;Oui;0.53;Rue / Route / Parking;EXEM
+190753;1.367455;43.602748;"43°36'9.893""N 1°22'2.838""E";31555;Rue Marie-Louise Dissard;"";31300;TOULOUSE;27/09/2024;En extérieur;RPUB_163780.pdf;Oui;2.2;Rue / Route / Parking;EXEM
+190758;2.144415;43.92921;"43°55'45.156""N 2°8'39.894""E";81004;Rue de la Souque;"";81000;ALBI;27/09/2024;En intérieur;RPUB_163802.pdf;Oui;1.92;"Lieu d'habitation";EXEM
+190761;1.090415;43.607331;"43°36'26.392""N 1°5'25.494""E";32160;Impasse Léonce;"";32600;ISLE JOURDAIN;27/09/2024;En extérieur;RPUB_163797.pdf;Oui;0.47;"Lieu d'habitation";EXEM
+190906;3.846149;43.570675;"43°34'14.430""N 3°50'46.136""E";34270;Rond point de la Piste Volante;"";34430;SAINT JEAN DE VEDAS;04/10/2024;En extérieur;RPUB_163913.pdf;Oui;2.89;Rue / Route / Parking;EXEM
+190911;1.089256;43.606507;"43°36'23.425""N 1°5'21.322""E";32160;Rue de Gascogne;"";32600;ISLE JOURDAIN;07/10/2024;En intérieur;RPUB_163942.pdf;Oui;0.18;"Lieu d'habitation";EXEM
+190919;3.000088;43.180592;"43°10'50.131""N 3°0'0.317""E";11262;Boulevard Dr Lacroix;"";11100;NARBONNE;07/10/2024;En extérieur;RPUB_163934.pdf;Oui;1.99;Rue / Route / Parking;EXEM
+190922;1.320922;43.603136;"43°36'11.290""N 1°19'15.319""E";31149;Allée de la Neste;"";31770;COLOMIERS;07/10/2024;En extérieur;RPUB_163935.pdf;Oui;1.95;Rue / Route / Parking;EXEM
+190923;3.013344;43.19163;"43°11'29.868""N 3°0'48.038""E";11262;Rue Francis de Pressensé;"";11100;NARBONNE;07/10/2024;En extérieur;RPUB_163933.pdf;Oui;1.62;Rue / Route / Parking;EXEM
+190940;3.870385;43.617095;"43°37'1.542""N 3°52'13.386""E";34172;Rue Auguste Broussonnet;"";34090;MONTPELLIER;08/10/2024;En intérieur;RPUB_163951.pdf;Oui;0.39;"Lieu d'habitation";EXEM
+190946;3.87142;43.606789;"43°36'24.440""N 3°52'17.112""E";34172;Cours Gambetta;"";34000;MONTPELLIER;08/10/2024;En extérieur;RPUB_163953.pdf;Oui;0.64;Rue / Route / Parking;EXEM
+191160;3.823264;43.619409;"43°37'9.872""N 3°49'23.750""E";34172;Rue Pina Bausch;"";34080;MONTPELLIER;18/10/2024;En intérieur;RPUB_164198.pdf;Oui;0.24;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+191299;3.871114;43.609661;"43°36'34.780""N 3°52'16.010""E";34172;Rue de la Merci;"";34000;MONTPELLIER;31/10/2024;En intérieur;RPUB_164319.pdf;Oui;1.85;"Lieu d'habitation";EXEM
+191306;0.083599;43.235839;"43°14'9.020""N 0°5'0.956""E";65440;Boulevard du Martinet;"";65000;TARBES;30/10/2024;En extérieur;RPUB_164329.pdf;Oui;4.28;"Lieu d'habitation";EXEM
+191310;1.429446;43.619495;"43°37'10.182""N 1°25'46.006""E";31555;Rue de Chaussas;"";31200;TOULOUSE;31/10/2024;En extérieur;RPUB_164322.pdf;Oui;2.43;"Lieu d'habitation";EXEM
+191316;3.869814;43.598889;"43°35'56.000""N 3°52'11.330""E";34172;Rue Saint-Cléophas;"";34070;MONTPELLIER;31/10/2024;En extérieur;RPUB_164349.pdf;Oui;3.02;Rue / Route / Parking;EXEM
+191317;1.016242;43.908228;"43°54'29.621""N 1°0'58.471""E";82180;Esparbery;"";82500;SERIGNAC;30/10/2024;En extérieur;RPUB_164354.pdf;Oui;0.81;Rue / Route / Parking;EXEM
+191336;1.379471;43.629855;"43°37'47.478""N 1°22'46.096""E";31069;Avenue Didier Daurat;"";31700;BLAGNAC;30/10/2024;En extérieur;RPUB_164348.pdf;Oui;1.88;Rue / Route / Parking;EXEM
+191371;1.401875;43.525708;"43°31'32.549""N 1°24'6.750""E";31433;Route de la Clé;"";31120;PORTET SUR GARONNE;08/08/2024;En extérieur;RPUB_164388.pdf;Oui;0.57;Rue / Route / Parking;EXEM
+191385;1.532035;43.554512;"43°33'16.243""N 1°31'55.326""E";31506;Place de la Poste;"";31650;SAINT ORENS DE GAMEVILLE;12/08/2024;En extérieur;RPUB_164389.pdf;Oui;0.49;Rue / Route / Parking;EXEM
+191577;2.316234;44.10372;"44°6'13.392""N 2°18'58.442""E";81292;Place du Ségala;"";81190;TANUS;18/11/2024;En extérieur;RPUB_164589.pdf;Oui;0.1;Rue / Route / Parking;EXEM
+191621;3.864068;43.592736;"43°35'33.850""N 3°51'50.645""E";34172;Rue Marcel Paul;"";34000;MONTPELLIER;17/07/2024;En extérieur;RPUB_164620.pdf;Oui;1.45;Rue / Route / Parking;EXEM
+191634;4.042791;43.646685;"43°38'48.066""N 4°2'34.048""E";34176;Avenue des Colverts;"";34130;MUDAISON;22/11/2024;En extérieur;RPUB_164653.pdf;Oui;0.88;"Lieu d'habitation";EXEM
+191667;3.937279;43.559533;"43°33'34.319""N 3°56'14.204""E";34129;Route de Pérols;"";34970;LATTES;22/11/2024;En extérieur;RPUB_164672.pdf;Oui;1.15;Rue / Route / Parking;EXEM
+191670;3.94569;43.568704;"43°34'7.334""N 3°56'44.484""E";34198;Avenue de Montpellier;"";34470;PEROLS;22/11/2024;En extérieur;RPUB_164671.pdf;Oui;0.2;Rue / Route / Parking;EXEM
+191684;1.332221;43.587898;"43°35'16.433""N 1°19'55.996""E";31557;Rue Paul Valéry;"";31170;TOURNEFEUILLE;25/11/2024;En intérieur;RPUB_164751.pdf;Oui;0.17;"Lieu d'habitation";EXEM
+191704;1.616269;44.083416;"44°5'0.298""N 1°36'58.568""E";82132;Riscou;"";82800;MONTRICOUX;25/11/2024;En extérieur;RPUB_164746.pdf;Oui;0.14;Rue / Route / Parking;EXEM
+191736;1.442771;43.604138;"43°36'14.897""N 1°26'33.976""E";31555;Place du Capitole;"";31000;TOULOUSE;26/11/2024;En intérieur;RPUB_164785.pdf;Oui;0.11;"Lieu d'habitation";EXEM
+191741;1.437643;43.60761;"43°36'27.396""N 1°26'15.515""E";31555;Rue des Puits Creusés;"";31000;TOULOUSE;26/11/2024;En intérieur;RPUB_164791.pdf;Oui;0.11;"Lieu d'habitation";EXEM
+191743;1.466267;43.603423;"43°36'12.323""N 1°27'58.561""E";31555;Rue Jean Timbal;"";31500;TOULOUSE;26/11/2024;En intérieur;RPUB_164792.pdf;Oui;0.55;"Lieu d'habitation";EXEM
+191787;3.863959;43.604752;"43°36'17.107""N 3°51'50.252""E";34172;Rue Lafeuillade;"";34070;MONTPELLIER;27/11/2024;En intérieur;RPUB_164813.pdf;Oui;0.24;"Lieu d'habitation";EXEM
+191797;3.462946;43.466306;"43°27'58.702""N 3°27'46.606""E";34017;Place de la Mairie;"";34530;AUMES;27/11/2024;En extérieur;RPUB_164854.pdf;Oui;0.14;Rue / Route / Parking;EXEM
+191799;3.465067;43.466468;"43°27'59.285""N 3°27'54.241""E";34017;Rue Corneille;"";34530;AUMES;27/11/2024;En intérieur;RPUB_164852.pdf;Oui;0.18;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+191808;3.45883;43.551095;"43°33'3.942""N 3°27'31.788""E";34194;Liberet;"";34230;PAULHAN;28/11/2024;En extérieur;RPUB_164816.pdf;Oui;2.27;Rue / Route / Parking;EXEM
+191810;3.540578;43.307315;"43°18'26.334""N 3°32'26.081""E";34150;Chemin du Littoral;"";34340;MARSEILLAN;28/11/2024;En extérieur;RPUB_164815.pdf;Oui;2.09;Rue / Route / Parking;EXEM
+191812;3.460135;43.466742;"43°28'0.271""N 3°27'36.486""E";34017;Rue des Ecoles;"";34530;AUMES;27/11/2024;En intérieur;RPUB_164850.pdf;Oui;0.15;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+191820;3.460157;43.466532;"43°27'59.515""N 3°27'36.565""E";34017;Rue des Ecoles;"";34530;AUMES;27/11/2024;En extérieur;RPUB_164853.pdf;Oui;0.11;Rue / Route / Parking;EXEM
+191827;3.463137;43.466443;"43°27'59.195""N 3°27'47.293""E";34017;Place de la Mairie;"";34530;AUMES;27/11/2024;En intérieur;RPUB_164851.pdf;Oui;0.14;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+191838;3.855779;43.538083;"43°32'17.099""N 3°51'20.804""E";34337;D116;"";34750;VILLENEUVE LES MAGUELONE;28/11/2024;En extérieur;RPUB_164817.pdf;Oui;2.21;Rue / Route / Parking;EXEM
+191847;3.46655;43.295474;"43°17'43.706""N 3°27'59.580""E";34003;Chemin de Guiraudette;"";34300;AGDE;29/11/2024;En extérieur;RPUB_164860.pdf;Oui;1.96;Rue / Route / Parking;EXEM
+191853;1.57461;43.2418;"43°14'30.480""N 1°34'28.596""E";09282;Complexe sportif municipal;"";09700;SAVERDUN;29/10/2024;En extérieur;RPUB_164879.pdf;Oui;1.82;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";ANFR_RAMBOUILLET
+191859;3.20571;43.326692;"43°19'36.091""N 3°12'20.556""E";34032;Impasse Henri Clouzot;"";34500;BEZIERS;29/11/2024;En extérieur;RPUB_164861.pdf;Oui;1.9;Rue / Route / Parking;EXEM
+191862;0.62044;43.4944;"43°29'39.840""N 0°37'13.584""E";32267;Chemin de Garrousset;"";32260;MONFERRAN PLAVES;24/10/2024;En intérieur;RPUB_164856.pdf;Oui;0.0;"Lieu d'habitation";ANFR_RAMBOUILLET
+191923;0.128489;43.208718;"43°12'31.385""N 0°7'42.560""E";65062;Allée des Châtaigniers;"";65690;BARBAZAN DEBAT;09/12/2024;En extérieur;RPUB_164944.pdf;Oui;0.81;"Lieu d'habitation";EXEM
+191937;3.845065;43.646263;"43°38'46.547""N 3°50'42.234""E";34172;Rue de la Font Froide;"";34090;MONTPELLIER;04/12/2024;En extérieur;RPUB_164983.pdf;Oui;1.48;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+191982;1.820254;43.691398;"43°41'29.033""N 1°49'12.914""E";81140;Avenue Pierre Fabre;"";81500;LAVAUR;05/12/2024;En extérieur;RPUB_164991.pdf;Oui;1.47;"Lieu d'habitation";EXEM
+192000;1.448178;43.596034;"43°35'45.722""N 1°26'53.441""E";31555;Rue Espinasse;"";31000;TOULOUSE;11/12/2024;En intérieur;RPUB_165038.pdf;Oui;0.2;"Lieu d'habitation";EXEM
+192029;1.221979;43.543859;"43°32'37.892""N 1°13'19.124""E";31187;Rue du Gers;"";31470;FONSORBES;12/12/2024;En intérieur;RPUB_165048.pdf;Oui;0.27;"Lieu d'habitation";EXEM
+192040;1.474088;43.586862;"43°35'12.703""N 1°28'26.717""E";31555;Avenue Jean Rieux;"";31500;TOULOUSE;12/12/2024;En intérieur;RPUB_165055.pdf;Oui;2.73;"Lieu d'habitation";EXEM
+192046;3.484426;43.710851;"43°42'39.064""N 3°29'3.934""E";34011;Rue de la Forge;"";34150;ARBORAS;16/12/2024;En intérieur;RPUB_165063.pdf;Oui;0.39;"Lieu d'habitation";EXEM
+192059;3.858847;43.617236;"43°37'2.050""N 3°51'31.849""E";34172;Place Pierre Viala;"";34000;MONTPELLIER;16/12/2024;En extérieur;RPUB_165085.pdf;Oui;0.37;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+192112;1.441977;43.601061;"43°36'3.820""N 1°26'31.117""E";31555;Rue Clémence Isaure;"";31000;TOULOUSE;12/12/2024;En extérieur;RPUB_165130.pdf;Oui;11.5;"Lieu d'habitation";EXEM
+192198;0.148273;43.063973;"43°3'50.303""N 0°8'53.783""E";65059;Rue Frédéric Soutras;"";65200;BAGNERES DE BIGORRE;07/01/2025;En intérieur;RPUB_165213.pdf;Oui;3.51;Divers;EXEM
+192199;3.225087;43.341129;"43°20'28.064""N 3°13'30.313""E";34032;Boulevard de Genève;"";34500;BEZIERS;08/01/2025;En extérieur;RPUB_165218.pdf;Oui;0.29;Rue / Route / Parking;EXEM
+192200;0.863371;43.071772;"43°4'18.379""N 0°51'48.136""E";31208;Route de Figarol;"";31160;GANTIES;07/01/2025;En intérieur;RPUB_165217.pdf;Oui;0.37;"Lieu d'habitation";EXEM
+192201;3.187945;43.331109;"43°19'51.992""N 3°11'16.602""E";34032;Rue Frédérik de Klerk;"";34500;BEZIERS;08/01/2025;En extérieur;RPUB_165219.pdf;Oui;0.3;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+192206;1.465817;43.5858;"43°35'8.880""N 1°27'56.941""E";31555;Avenue Antoine de Saint Exupéry;"";31100;TOULOUSE;07/01/2025;En extérieur;RPUB_165216.pdf;Oui;0.37;"Lieu d'habitation";EXEM
+192207;3.901863;43.605878;"43°36'21.161""N 3°54'6.707""E";34172;Rue Willy Klein;"";34000;MONTPELLIER;09/01/2025;En intérieur;RPUB_165224.pdf;Oui;0.54;"Lieu d'habitation";EXEM
+192210;3.509724;43.298245;"43°17'53.682""N 3°30'35.006""E";34003;Rue René Franques;"";34300;AGDE;09/01/2025;En intérieur;RPUB_165226.pdf;Oui;2.93;"Lieu d'habitation";EXEM
+192314;1.332702;43.511872;"43°30'42.739""N 1°19'57.727""E";31203;Place du 8 Mai 1945;"";31270;FROUZINS;22/01/2025;En intérieur;RPUB_165333.pdf;Oui;0.27;"Lieu d'habitation";EXEM
+192317;1.328411;43.508497;"43°30'30.589""N 1°19'42.280""E";31203;Rue Albert Camus;"";31270;FROUZINS;22/01/2025;En intérieur;RPUB_165335.pdf;Oui;0.22;"Lieu d'habitation";EXEM
+192318;1.47461;43.586877;"43°35'12.757""N 1°28'28.596""E";31555;Avenue Jean Rieux;"";31500;TOULOUSE;22/01/2025;En extérieur;RPUB_165328.pdf;Oui;1.47;"Lieu d'habitation";EXEM
+192325;1.347349;43.517957;"43°31'4.645""N 1°20'50.456""E";31588;Rue Saint Aubin;"";31270;VILLENEUVE TOLOSANE;22/01/2025;En extérieur;RPUB_165329.pdf;Oui;0.93;"Lieu d'habitation";EXEM
+192334;1.32967;43.510184;"43°30'36.662""N 1°19'46.812""E";31203;Rue victor hugo;"";31270;FROUZINS;22/01/2025;En intérieur;RPUB_165334.pdf;Oui;0.27;"Lieu d'habitation";EXEM
+192335;1.332414;43.513203;"43°30'47.531""N 1°19'56.690""E";31203;Rue du Maréchal Juin;"";31270;FROUZINS;24/01/2025;En intérieur;RPUB_165354.pdf;Oui;0.32;"Lieu d'habitation";EXEM
+192337;1.332092;43.512931;"43°30'46.552""N 1°19'55.531""E";31203;Rue du Maréchal Juin;"";31270;FROUZINS;23/01/2025;En intérieur;RPUB_165353.pdf;Oui;0.25;"Lieu d'habitation";EXEM
+192341;1.477146;43.711549;"43°42'41.576""N 1°28'37.726""E";31364;Impasse des Muriers;"";31140;MONTBERON;24/01/2025;En extérieur;RPUB_165351.pdf;Oui;1.15;"Lieu d'habitation";EXEM
+192346;1.328137;43.508628;"43°30'31.061""N 1°19'41.293""E";31203;Rue Albert Camus;"";31270;FROUZINS;24/01/2025;En intérieur;RPUB_165357.pdf;Oui;0.29;"Lieu d'habitation";EXEM
+192350;1.327951;43.50869;"43°30'31.284""N 1°19'40.624""E";31203;Rue Albert Camus;"";31270;FROUZINS;23/01/2025;En intérieur;RPUB_165356.pdf;Oui;0.33;"Lieu d'habitation";EXEM
+192356;1.33233;43.512034;"43°30'43.322""N 1°19'56.388""E";31203;Place du 8 Mai 1945;"";31270;FROUZINS;24/01/2025;En intérieur;RPUB_165355.pdf;Oui;0.33;"Lieu d'habitation";EXEM
+192359;1.433544;43.481418;"43°28'53.105""N 1°26'0.758""E";31227;Chemin des Crêtes;"";31120;GOYRANS;27/01/2025;En intérieur;RPUB_165385.pdf;Oui;0.24;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+192361;1.432471;43.482313;"43°28'56.327""N 1°25'56.896""E";31227;Chemin des Crêtes;"";31120;GOYRANS;27/01/2025;En intérieur;RPUB_165383.pdf;Oui;0.14;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+192366;1.329496;43.508752;"43°30'31.507""N 1°19'46.186""E";31203;Rue Jules Verne;"";31270;FROUZINS;27/01/2025;En intérieur;RPUB_165377.pdf;Oui;0.23;"Lieu d'habitation";EXEM
+192372;1.432085;43.481153;"43°28'52.151""N 1°25'55.506""E";31227;Place des Marronniers;"";31120;GOYRANS;27/01/2025;En extérieur;RPUB_165384.pdf;Oui;0.13;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+192374;1.329324;43.508457;"43°30'30.445""N 1°19'45.566""E";31203;Rue Jules Verne;"";31270;FROUZINS;27/01/2025;En intérieur;RPUB_165378.pdf;Oui;0.22;"Lieu d'habitation";EXEM
+192376;1.329566;43.508385;"43°30'30.186""N 1°19'46.438""E";31203;Rue Jules Verne;"";31270;FROUZINS;28/01/2025;En intérieur;RPUB_165403.pdf;Oui;0.23;"Lieu d'habitation";EXEM
+192380;1.329217;43.508799;"43°30'31.676""N 1°19'45.181""E";31203;Avenue Jean de la Fontaine;"";31270;FROUZINS;28/01/2025;En intérieur;RPUB_165398.pdf;Oui;0.35;"Lieu d'habitation";EXEM
+192381;1.33162;43.513218;"43°30'47.585""N 1°19'53.832""E";31203;Rue du Maréchal Juin;"";31270;FROUZINS;28/01/2025;En intérieur;RPUB_165399.pdf;Oui;0.37;"Lieu d'habitation";EXEM
+192385;1.328903;43.510274;"43°30'36.986""N 1°19'44.051""E";31203;Rue Victor Hugo;"";31270;FROUZINS;28/01/2025;En intérieur;RPUB_165402.pdf;Oui;0.36;"Lieu d'habitation";EXEM
+192388;1.331835;43.513475;"43°30'48.510""N 1°19'54.606""E";31203;Rue du Maréchal Juin;"";31270;FROUZINS;28/01/2025;En intérieur;RPUB_165400.pdf;Oui;0.21;"Lieu d'habitation";EXEM
+192393;1.329854;43.510393;"43°30'37.415""N 1°19'47.474""E";31203;Rue Victor Hugo;"";31270;FROUZINS;28/01/2025;En intérieur;RPUB_165401.pdf;Oui;0.24;"Lieu d'habitation";EXEM
+192401;1.329646;43.508002;"43°30'28.807""N 1°19'46.726""E";31203;Rue Jules Verne;"";31270;FROUZINS;29/01/2025;En extérieur;RPUB_165424.pdf;Oui;0.37;"Lieu d'habitation";EXEM
+192402;1.331041;43.50848;"43°30'30.528""N 1°19'51.748""E";31203;Rue Jules Verne;"";31270;FROUZINS;29/01/2025;En intérieur;RPUB_165425.pdf;Oui;0.37;"Lieu d'habitation";EXEM
+192406;1.330955;43.508301;"43°30'29.884""N 1°19'51.438""E";31203;Rue Jules Verne;"";31270;FROUZINS;29/01/2025;En intérieur;RPUB_165426.pdf;Oui;0.27;"Lieu d'habitation";EXEM
+192411;1.328909;43.508882;"43°30'31.975""N 1°19'44.072""E";31203;Avenue Jean de la Fontaine;"";31270;FROUZINS;29/01/2025;En intérieur;RPUB_165421.pdf;Oui;0.66;"Lieu d'habitation";EXEM
+192412;1.332332;43.512863;"43°30'46.307""N 1°19'56.395""E";31203;Rue du Maréchal Juin;"";31270;FROUZINS;29/01/2025;En intérieur;RPUB_165423.pdf;Oui;0.17;"Lieu d'habitation";EXEM
+192414;1.328444;43.508853;"43°30'31.871""N 1°19'42.398""E";31203;Avenue Jean de la Fontaine;"";31270;FROUZINS;29/01/2025;En intérieur;RPUB_165422.pdf;Oui;0.21;"Lieu d'habitation";EXEM
+192420;1.328795;43.508691;"43°30'31.288""N 1°19'43.662""E";31203;Avenue Jean de la Fontaine;"";31270;FROUZINS;30/01/2025;En intérieur;RPUB_165439.pdf;Oui;0.46;"Lieu d'habitation";EXEM
+192422;2.319502;43.252846;"43°15'10.246""N 2°19'10.207""E";11279;"Rue de l'Estagnol";"";11610;PENNAUTIER;30/01/2025;En extérieur;RPUB_165445.pdf;Oui;3.8;"Lieu d'habitation";EXEM
+192423;2.168427;43.242139;"43°14'31.700""N 2°10'6.337""E";11009;Conques;"";11170;ALZONNE;30/01/2025;En intérieur;RPUB_165443.pdf;Oui;0.28;"Lieu d'habitation";EXEM
+192427;1.329646;43.510513;"43°30'37.847""N 1°19'46.726""E";31203;Rue Victor Hugo;"";31270;FROUZINS;30/01/2025;En intérieur;RPUB_165440.pdf;Oui;0.31;"Lieu d'habitation";EXEM
+192428;2.944679;43.232291;"43°13'56.248""N 2°56'40.844""E";11258;Rue Ange Ayora;"";11120;MOUSSAN;30/01/2025;En intérieur;RPUB_165444.pdf;Oui;0.56;"Lieu d'habitation";EXEM
+192432;3.363705;43.27776;"43°16'39.936""N 3°21'49.338""E";34209;Boulevard du Front de Mer;"";34420;PORTIRAGNES;31/01/2025;En intérieur;RPUB_165449.pdf;Oui;1.72;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
+192433;3.171441;43.361061;"43°21'39.820""N 3°10'17.188""E";34148;Rue du Grand et Petit Bailly;"";34370;MARAUSSAN;31/01/2025;En intérieur;RPUB_165448.pdf;Oui;1.49;"Lieu d'habitation";EXEM
+192434;3.956645;43.653908;"43°39'14.069""N 3°57'23.922""E";34327;Avenue des Bigos;"";34740;VENDARGUES;21/01/2025;En extérieur;RPUB_165451.pdf;Oui;2.9;"Etablissement ouvert au public (Ecole, Et Soins, Gare…)";EXEM
